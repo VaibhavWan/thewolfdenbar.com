@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
-
-<head><!-- Google tag (gtag.js) -->
-  <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-VG24VK2VKT"></script>
+<!-- saved from url=(0035)https://thewolfdenbar.netlify.app/# -->
+<html lang="en" class="uk-notouch" style="scroll-padding-top: 140px;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!-- Google tag (gtag.js) -->
+  <script type="text/javascript" async="" src="./Hungry_files/js"></script><script async="async" src="./Hungry_files/js(1)"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
@@ -15,57 +14,49 @@ smart_footer: true,
 smart_footer_version: 2,
 scripting_active: false
 -->
-  <meta charset="utf-8">
+  
   <meta content="IE=edge" http-equiv="X-UA-Compatible">
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta content="" name="description">
   <meta content="" name="author">
-  <meta content="The Wolf Den Bar & Grill - Reno, NV" property="og:title">
+  <meta content="The Wolf Den Bar &amp; Grill - Reno, NV" property="og:title">
   <meta content="website" property="og:type">
   <meta content="http://thewolfdenbar.com/" property="og:url">
   <meta content="..." property="og:description">
   <meta content="./namoapps.co/website_images/ab_websites/346270_website_v1/social_share.jpg" property="og:image">
-  <meta content="The Wolf Den Bar & Grill image" property="og:image:alt">
+  <meta content="The Wolf Den Bar &amp; Grill image" property="og:image:alt">
   <meta content="image/png" property="og:image:type">
   <meta content="490394574147316" property="fb:app_id">
   <meta content="summary_large_image" name="twitter:card">
-  <meta content="The Wolf Den Bar & Grill - Reno, NV" name="twitter:title">
+  <meta content="The Wolf Den Bar &amp; Grill - Reno, NV" name="twitter:title">
   <meta content="..." name="twitter:description">
-  <meta content="https://static.spotapps.co/website_images/ab_websites/346270_website_v1/social_share.jpg"
-    name="twitter:image">
-  <title>The Wolf Den Bar & Grill - Reno, NV</title>
+  <meta content="https://static.spotapps.co/website_images/ab_websites/346270_website_v1/social_share.jpg" name="twitter:image">
+  <title>The Wolf Den Bar &amp; Grill - Reno, NV</title>
   <script>document.cookie = 'resolution=' + Math.max(screen.width, screen.height) + ("devicePixelRatio" in window ? "," + devicePixelRatio : ",1") + '; path=/';</script>
-  <link href="./namoapps.co/website_images/ab_websites/346270_website_v1/favicons/favicon-96x96.png" rel="icon"
-    sizes="96x96" type="image/png">
-  <link href="./namoapps.co/website_images/ab_websites/346270_website_v1/favicons/favicon.svg" rel="icon"
-    type="image/svg+xml">
-  <link href="./namoapps.co/website_images/ab_websites/346270_website_v1/favicons/favicon.ico" rel="shortcut icon">
-  <link href="./namoapps.co/website_images/ab_websites/346270_website_v1/favicons/apple-touch-icon.png"
-    rel="apple-touch-icon" sizes="180x180">
-  <meta content="The Wolf Den Bar & Grill" name="apple-mobile-web-app-title">
-  <link href="https://static.spotapps.co/website_images/ab_websites/346270_website_v1/favicons/site.webmanifest"
-    rel="manifest">
-  <link href="./namoapps.co/web/thewolfdenbar--com/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="./namoapps.co/web/thewolfdenbar--com/lib/gallery/gallery.css" rel="stylesheet">
-  <link href="./namoapps.co/web/thewolfdenbar--com/lib/fancybox/source/jquery.fancybox.css" media="screen"
-    rel="stylesheet" type="text/css">
-  <link href="./namoapps.co/web/thewolfdenbar--com/lib/fancybox/source/helpers/jquery.fancybox-thumbs.css"
-    rel="stylesheet" type="text/css">
-  <link href="./namoapps.co/web-lib/leaflet/leaflet-gesture-handling%401.2.2/dist/leaflet-gesture-handling.min.css"
-    rel="stylesheet" type="text/css">
-  <link href="./namoapps.co/web/thewolfdenbar--com/lib/uikit/css/uikit.docs.min.css" rel="stylesheet">
-  <link href="./namoapps.co/web/thewolfdenbar--com/lib/uikit/css/slidenav.css" rel="stylesheet">
-  <link href="./namoapps.co/web/thewolfdenbar--com/lib/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet">
-  <link href="./namoapps.co/web/thewolfdenbar--com/lib/hover_css/css/hover-min.css" rel="stylesheet">
-  <link href="./namoapps.co/web/thewolfdenbar--com/lib/owlcarousel/owl.carousel.min.css" rel="stylesheet">
-  <link href="./namoapps.co/web/thewolfdenbar--com/lib/owlcarousel/owl.theme.default.min.css" rel="stylesheet">
-  <link href="./namoapps.co/web-lib/leaflet/leaflet%401.3.1/dist/leaflet.css" rel="stylesheet">
-  <link href="./namoapps.co/web/thewolfdenbar--com/css/style_version2.css" id="mainCSS" rel="stylesheet">
-  <link href="./namoapps.co/web/thewolfdenbar--com/css/bottom_navigation_v1_v1735292447.css" rel="stylesheet">
-  <link href="./css/custom_v1735292447&domain=thewolfdenbar.com.css" rel="stylesheet">
-  <link href="./namoapps.co/web/thewolfdenbar--com/lib/icons_font/css/social_icons.css" rel="stylesheet">
+  <link href="https://thewolfdenbar.netlify.app/namoapps.co/website_images/ab_websites/346270_website_v1/favicons/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png">
+  <link href="https://thewolfdenbar.netlify.app/namoapps.co/website_images/ab_websites/346270_website_v1/favicons/favicon.svg" rel="icon" type="image/svg+xml">
+  <link href="https://thewolfdenbar.netlify.app/namoapps.co/website_images/ab_websites/346270_website_v1/favicons/favicon.ico" rel="shortcut icon">
+  <link href="https://thewolfdenbar.netlify.app/namoapps.co/website_images/ab_websites/346270_website_v1/favicons/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180">
+  <meta content="The Wolf Den Bar &amp; Grill" name="apple-mobile-web-app-title">
+  <link href="https://static.spotapps.co/website_images/ab_websites/346270_website_v1/favicons/site.webmanifest" rel="manifest">
+  <link href="./Hungry_files/bootstrap.min.css" rel="stylesheet">
+  <link href="./Hungry_files/gallery.css" rel="stylesheet">
+  <link href="./Hungry_files/jquery.fancybox.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="./Hungry_files/jquery.fancybox-thumbs.css" rel="stylesheet" type="text/css">
+  <link href="./Hungry_files/leaflet-gesture-handling.min.css" rel="stylesheet" type="text/css">
+  <link href="./Hungry_files/uikit.docs.min.css" rel="stylesheet">
+  <link href="./Hungry_files/slidenav.css" rel="stylesheet">
+  <link href="./Hungry_files/font-awesome.min.css" rel="stylesheet">
+  <link href="./Hungry_files/hover-min.css" rel="stylesheet">
+  <link href="./Hungry_files/owl.carousel.min.css" rel="stylesheet">
+  <link href="./Hungry_files/owl.theme.default.min.css" rel="stylesheet">
+  <link href="./Hungry_files/leaflet.css" rel="stylesheet">
+  <link href="./Hungry_files/style_version2.css" id="mainCSS" rel="stylesheet">
+  <link href="./Hungry_files/bottom_navigation_v1_v1735292447.css" rel="stylesheet">
+  <link href="./Hungry_files/custom_v1735292447&amp;domain=thewolfdenbar.com.css" rel="stylesheet">
+  <link href="./Hungry_files/social_icons.css" rel="stylesheet">
   <!--[if IE 7]><link rel="stylesheet" href="lib/icons_font/css/social_icons-ie7.css"><![endif]-->
-  <link href="./namoapps.co/web/thewolfdenbar--com/lib/twitter_x_font_icon/css/twitter_x.css" rel="stylesheet">
+  <link href="./Hungry_files/twitter_x.css" rel="stylesheet">
   <!--[if IE 7]><link rel="stylesheet" href="lib/twitter_x_font_icon/css/twitter_x-ie7.css"><![endif]--><!--[if lt IE 9]>
     <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
@@ -106,7 +97,7 @@ scripting_active: false
       }
     }
   </style>
-  <script src="./namoapps.co/websites/lib/lazysizes/lazysizes.min.js" async=""></script>
+  <script src="./Hungry_files/lazysizes.min.js.download" async=""></script>
   <script>
     function ga_check() {
       return true;
@@ -214,9 +205,9 @@ scripting_active: false
 
     sessionStorage.setItem('shUrlParams', JSON.stringify(shUrlParams))
   </script>
-</head>
+<script src="./Hungry_files/index.umd.js.download" async=""></script><style type="text/css">.fancybox-margin{margin-right:15px;}</style><style type="text/css">.fancybox-margin{margin-right:15px;}</style><script src="./Hungry_files/focus-trap.umd.js.download" async=""></script></head>
 
-<body class="home-page" data-spot-id="346270">
+<body class="home-page" data-spot-id="346270" style="">
   <style>
     .promotion-pop-up .modal-dialog {
       margin: 0 auto;
@@ -415,25 +406,18 @@ scripting_active: false
       }
     }
   </style>
-  <div aria-label="Promotion" class="modal fade promotion-pop-up" id="promotion-pop-up" role="dialog" tabindex="-1">
-    <div class="modal-dialog" role="document">
-      <div class="modal-content promotion_pop_up_content" data-has-image="" data-internalname="job_listings"
-        data-is-template-image-and-button="false"
-        data-link-url="https://tmt.spotapps.co/job-listings?spot_id=346270&source=pop_up&destination=job_listing&promotion=job_listings"
-        id="3638937"><!-- Modal Header -->
-        <div class="modal-header"><button aria-label="Close" class="close" data-dismiss="modal" type="button"><span
-              aria-hidden="true">×</span></button></div><!-- Modal body -->
-        <div class="modal-body modal-plain-text">
+  <div aria-label="Promotion" class="modal fade promotion-pop-up" id="promotion-pop-up" role="dialog" tabindex="-1" style="display: none;" aria-hidden="true" inert="">
+    <div class="modal-dialog" role="document" style="top: 180.5px;">
+      <div class="modal-content promotion_pop_up_content" data-has-image="" data-internalname="job_listings" data-is-template-image-and-button="false" data-link-url="https://tmt.spotapps.co/job-listings?spot_id=346270&amp;source=pop_up&amp;destination=job_listing&amp;promotion=job_listings" id="3638937" style="display: block;"><!-- Modal Header -->
+        <div class="modal-header"><button aria-label="Close" class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span></button></div><!-- Modal body -->
+        <div class="modal-body modal-plain-text" style="max-height: 440px; overflow-y: auto;">
           <p>We're hiring! Call, email, or submit an inquiry today to learn more!</p>
         </div>
-        <div class="modal-footer"><a class="btn btn-modal"
-            data-href="https://tmt.spotapps.co/job-listings?spot_id=346270&source=pop_up&destination=job_listing&promotion=job_listings">Job
+        <div class="modal-footer"><a class="btn btn-modal" href="https://tmt.spotapps.co/job-listings?spot_id=346270&amp;source=pop_up&amp;destination=job_listing&amp;promotion=job_listings">Job
             Listings</a></div>
       </div>
-      <div class="modal-content promotion_pop_up_content" data-has-image="" data-internalname="private_parties"
-        data-is-template-image-and-button="false" data-link-url="tel:7754486946" id="3638925"><!-- Modal Header -->
-        <div class="modal-header"><button aria-label="Close" class="close" data-dismiss="modal" type="button"><span
-              aria-hidden="true">×</span></button></div><!-- Modal body -->
+      <div class="modal-content promotion_pop_up_content" data-has-image="" data-internalname="private_parties" data-is-template-image-and-button="false" data-link-url="tel:7754486946" id="3638925" style="display: none;"><!-- Modal Header -->
+        <div class="modal-header"><button aria-label="Close" class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span></button></div><!-- Modal body -->
         <div class="modal-body modal-plain-text">
           <h1>Turn moments into memories!</h1>
           <h2>Choose us for your next special occasion or get-together.</h2>
@@ -442,17 +426,12 @@ scripting_active: false
         </div>
         <div class="modal-footer"><a class="btn btn-modal" data-href="tel:7754486946">Call to Inquire</a></div>
       </div>
-      <div class="modal-content promotion_pop_up_content" data-has-image="" data-internalname="order_online"
-        data-is-template-image-and-button="false"
-        data-link-url="https://wolfdenbar.square.site/?source=pop_up&spot_id=346270&destination=order&promotion=order_online"
-        id="4655686"><!-- Modal Header -->
-        <div class="modal-header"><button aria-label="Close" class="close" data-dismiss="modal" type="button"><span
-              aria-hidden="true">×</span></button></div><!-- Modal body -->
+      <div class="modal-content promotion_pop_up_content" data-has-image="" data-internalname="order_online" data-is-template-image-and-button="false" data-link-url="https://wolfdenbar.square.site/?source=pop_up&amp;spot_id=346270&amp;destination=order&amp;promotion=order_online" id="4655686" style="display: none;"><!-- Modal Header -->
+        <div class="modal-header"><button aria-label="Close" class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span></button></div><!-- Modal body -->
         <div class="modal-body modal-plain-text">
           <p>Order your favorite dishes in seconds!</p>
         </div>
-        <div class="modal-footer"><a class="btn btn-modal"
-            data-href="https://wolfdenbar.square.site/?source=pop_up&spot_id=346270&destination=order&promotion=order_online">Order
+        <div class="modal-footer"><a class="btn btn-modal" data-href="https://wolfdenbar.square.site/?source=pop_up&amp;spot_id=346270&amp;destination=order&amp;promotion=order_online">Order
             Online</a></div>
       </div>
     </div>
@@ -1022,22 +1001,15 @@ scripting_active: false
       }
     }
   </style><!-- nav -->
-  <nav class="navbar nav-v4 nav-v6 nav-v7 navbar-regular navbar-fixed-top" id="navbar" role="navigation">
-    <div id="skip"><a class="visuallyhidden skip-content" href="#content">Skip to main content</a></div>
+  <nav class="navbar nav-v4 nav-v6 nav-v7 navbar-regular navbar-fixed-top nav-scroll" id="navbar" role="navigation" tabindex="-1" style="outline: none;">
+    <div id="skip"><a class="visuallyhidden skip-content" href="https://thewolfdenbar.netlify.app/#content">Skip to main content</a></div>
     <div class="desktop-navigation logo-center">
       <div class="navbar-logo">
-        <div class="container"><a class="header-logo logo-top" href="/#"><img
-              alt="The Wolf Den Bar & Grill logo top - Homepage" aria-label="Homepage" class="img-responsive logo-top"
-              src="./namoapps.co/website_images/ab_websites/346270_website_v1/logotype.png"></a><a
-            class="header-logo logo-scroll" href="/"><img alt="The Wolf Den Bar & Grill logo scroll - Homepage"
-              aria-label="Homepage" class="img-responsive logo-scroll"
-              src="./namoapps.co/website_images/ab_websites/346270_website_v1/logotype.png"></a>
+        <div class="container"><a class="header-logo logo-top" href="https://thewolfdenbar.netlify.app/#"><img alt="The Wolf Den Bar &amp; Grill logo top - Homepage" aria-label="Homepage" class="img-responsive logo-top" src="./Hungry_files/logotype.png"></a><a class="header-logo logo-scroll" href="https://thewolfdenbar.netlify.app/"><img alt="The Wolf Den Bar &amp; Grill logo scroll - Homepage" aria-label="Homepage" class="img-responsive logo-scroll" src="./Hungry_files/logotype.png"></a>
           <div class="navbar-contact">
             <ul class="nav navbar-nav navbar-right">
-              <li class="nav-phone"><a href="tel:+17754486946"><i aria-hidden="true"
-                    class="fa fa-phone"></i><span>(775)-448-6946</span></a></li>
-              <li class="nav-email"><a href="mailto:grsonsinc@gmail.com"><i aria-hidden="true"
-                    class="fa fa-envelope-o"></i><span>grsonsinc@gmail.com</span></a></li>
+              <li class="nav-phone"><a href="tel:+17754486946"><i aria-hidden="true" class="fa fa-phone"></i><span>(775)-448-6946</span></a></li>
+              <li class="nav-email"><a href="mailto:grsonsinc@gmail.com"><i aria-hidden="true" class="fa fa-envelope-o"></i><span>grsonsinc@gmail.com</span></a></li>
             </ul>
           </div>
         </div>
@@ -1046,65 +1018,46 @@ scripting_active: false
         <div class="container">
           <div class="navbar-content">
             <ul class="nav navbar-nav">
-              <li class=" nav-menu-page"><a class=""
-                  href="./menu/thewolfdenbar.com/reno-the-wolf-den-bar-and-grill-food-menu/index.html"
-                  id="/Reno-The-Wolf-Den-Bar-and-Grill-food-menu_link" target="_self">
+              <li class=" nav-menu-page"><a class="" href="https://thewolfdenbar.netlify.app/menu/thewolfdenbar.com/reno-the-wolf-den-bar-and-grill-food-menu/" id="/Reno-The-Wolf-Den-Bar-and-Grill-food-menu_link" target="_self">
 
                   Menu
 
                 </a></li>
-              <li class=" "><a class=""
-                  href="./drinks/thewolfdenbar.com/reno-the-wolf-den-bar-and-grill-drink-menu/index.html"
-                  id="/Reno-The-Wolf-Den-Bar-and-Grill-drink-menu_link" target="_self">
+              <li class=" "><a class="" href="https://thewolfdenbar.netlify.app/drinks/thewolfdenbar.com/reno-the-wolf-den-bar-and-grill-drink-menu/" id="/Reno-The-Wolf-Den-Bar-and-Grill-drink-menu_link" target="_self">
 
                   Drinks
 
                 </a></li>
-              <li class=" "><a class=""
-                  href="./special/thewolfdenbar.com/reno-the-wolf-den-bar-and-grill-happy-hours-specials/index.html"
-                  id="/Reno-The-Wolf-Den-Bar-and-Grill-happy-hours-specials_link" target="_self">
+              <li class=" "><a class="" href="https://thewolfdenbar.netlify.app/special/thewolfdenbar.com/reno-the-wolf-den-bar-and-grill-happy-hours-specials/" id="/Reno-The-Wolf-Den-Bar-and-Grill-happy-hours-specials_link" target="_self">
 
                   Specials
 
                 </a></li>
-              <li class=" "><a class=""
-                  href="./event/thewolfdenbar.com/reno-the-wolf-den-bar-and-grill-events/index.html"
-                  id="/Reno-The-Wolf-Den-Bar-and-Grill-events_link" target="_self">
+              <li class=" "><a class="" href="https://thewolfdenbar.netlify.app/event/thewolfdenbar.com/reno-the-wolf-den-bar-and-grill-events/" id="/Reno-The-Wolf-Den-Bar-and-Grill-events_link" target="_self">
 
                   Events
 
                 </a></li>
-              <li class=" nav-reservations-link"><a class="link-reservations-sh"
-                  href="./reserve/thewolfdenbar.com/reno-the-wolf-den-bar-and-grill-reservations/index.html"
-                  id="/Reno-The-Wolf-Den-Bar-and-Grill-reservations#_link" target="_self">
+              <li class=" nav-reservations-link"><a class="link-reservations-sh" href="https://thewolfdenbar.netlify.app/reserve/thewolfdenbar.com/reno-the-wolf-den-bar-and-grill-reservations/" id="/Reno-The-Wolf-Den-Bar-and-Grill-reservations#_link" target="_self">
 
                   Reserve
 
                 </a></li>
-              <li class=" nav-order-link"><a class="link-order-sh" href="https://wolfdenbar.square.site/#"
-                  id="wolfdenbar.square.site/#_link" target="_self">
+              <li class=" nav-order-link"><a class="link-order-sh" href="https://wolfdenbar.square.site/#" id="wolfdenbar.square.site/#_link" target="_self">
 
                   Order
 
                 </a></li>
-              <li class=" nav-jobs-link"><a class="link-jobs-sh"
-                  href="./jobs/thewolfdenbar.com/reno-the-wolf-den-bar-jobs/index.html"
-                  id="tmt.spotapps.co/job-listings?spot_id=346270_link" target="_self">
+              <li class=" nav-jobs-link"><a class="link-jobs-sh" href="https://thewolfdenbar.netlify.app/jobs/thewolfdenbar.com/reno-the-wolf-den-bar-jobs/" id="tmt.spotapps.co/job-listings?spot_id=346270_link" target="_self">
 
                   Jobs
 
                 </a></li>
             </ul>
             <ul class="socialnav">
-              <li class="social-links social-icons-holder social-square"><a class="pull-left contact-icon"
-                  href="https://www.facebook.com/490394574147316" target="_blank"><i
-                    class="social-icon fa fa-facebook"></i><span>Facebook page</span></a></li>
-              <li class="social-links social-icons-holder social-square"><a class="pull-left contact-icon"
-                  href="https://www.instagram.com/thewolfden2024" target="_blank"><i
-                    class="social-icon fa fa-instagram"></i><span>Instagram page</span></a></li>
-              <li class="social-links social-icons-holder social-square"><a class="pull-left contact-icon"
-                  href="https://www.google.com/search?q=The+Wolf+Den+Bar+%26+Grill+501+Ralston+Street%0D%0AReno%2C+NV%0D%0A89503&sca_esv=304c4ee5713996df&rlz=1C1YTUH_enRS1087RS1087&ei=TvBbZ-SMMZiH9u8P1fbbeQ&ved=0ahUKEwjk67n8qaSKAxWYg_0HHVX7Ng8Q4dUDCBA&uact=5&oq=The+Wolf+Den+Bar+%26+Grill+501+Ralston+Street%0D%0AReno%2C+NV%0D%0A89503&gs_lp=Egxnd3Mtd2l6LXNlcnAiOlRoZSBXb2xmIERlbiBCYXIgJiBHcmlsbCA1MDEgUmFsc3RvbiBTdHJlZXQKUmVubywgTlYKODk1MDMyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdI3wtQJFi5A3ABeAGQAQCYAacDoAGnA6oBAzQtMbgBA8gBAPgBAfgBApgCAaACDJgDAIgGAZAGBJIHATGgB7UI&sclient=gws-wiz-serp#lrd=0x80994721820bc319:0xbc171a0b3401348c,1,,,,"
-                  target="_blank"><i aria-hidden="true" class="social-icon fa fa-google"></i><span>Google
+              <li class="social-links social-icons-holder social-square"><a class="pull-left contact-icon" href="https://www.facebook.com/490394574147316" target="_blank"><i class="social-icon fa fa-facebook"></i><span>Facebook page</span></a></li>
+              <li class="social-links social-icons-holder social-square"><a class="pull-left contact-icon" href="https://www.instagram.com/thewolfden2024" target="_blank"><i class="social-icon fa fa-instagram"></i><span>Instagram page</span></a></li>
+              <li class="social-links social-icons-holder social-square"><a class="pull-left contact-icon" href="https://www.google.com/search?q=The+Wolf+Den+Bar+%26+Grill+501+Ralston+Street%0D%0AReno%2C+NV%0D%0A89503&amp;sca_esv=304c4ee5713996df&amp;rlz=1C1YTUH_enRS1087RS1087&amp;ei=TvBbZ-SMMZiH9u8P1fbbeQ&amp;ved=0ahUKEwjk67n8qaSKAxWYg_0HHVX7Ng8Q4dUDCBA&amp;uact=5&amp;oq=The+Wolf+Den+Bar+%26+Grill+501+Ralston+Street%0D%0AReno%2C+NV%0D%0A89503&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiOlRoZSBXb2xmIERlbiBCYXIgJiBHcmlsbCA1MDEgUmFsc3RvbiBTdHJlZXQKUmVubywgTlYKODk1MDMyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdI3wtQJFi5A3ABeAGQAQCYAacDoAGnA6oBAzQtMbgBA8gBAPgBAfgBApgCAaACDJgDAIgGAZAGBJIHATGgB7UI&amp;sclient=gws-wiz-serp#lrd=0x80994721820bc319:0xbc171a0b3401348c,1,,,," target="_blank"><i aria-hidden="true" class="social-icon fa fa-google"></i><span>Google
                     page</span></a></li>
             </ul>
           </div>
@@ -1112,60 +1065,35 @@ scripting_active: false
       </div>
     </div>
     <div class="mobile-navigation">
-      <div class="container"><a class="header-logo logo-top" href="/#"><img
-            alt="The Wolf Den Bar & Grill logo top - Homepage" aria-label="Homepage" class="img-responsive logo-top"
-            src="./namoapps.co/website_images/ab_websites/346270_website_v1/logotype.png"></a><a
-          class="header-logo logo-scroll" href="/"><img alt="The Wolf Den Bar & Grill logo scroll - Homepage"
-            aria-label="Homepage" class="img-responsive logo-scroll"
-            src="./namoapps.co/website_images/ab_websites/346270_website_v1/logotype.png"></a>
+      <div class="container"><a class="header-logo logo-top" href="https://thewolfdenbar.netlify.app/#"><img alt="The Wolf Den Bar &amp; Grill logo top - Homepage" aria-label="Homepage" class="img-responsive logo-top" src="./Hungry_files/logotype.png"></a><a class="header-logo logo-scroll" href="https://thewolfdenbar.netlify.app/"><img alt="The Wolf Den Bar &amp; Grill logo scroll - Homepage" aria-label="Homepage" class="img-responsive logo-scroll" src="./Hungry_files/logotype.png"></a>
         <ul class="socialnav">
-          <li class="social-links social-icons-holder social-square"><a class="pull-left contact-icon"
-              href="https://www.facebook.com/490394574147316" target="_blank"><i
-                class="social-icon fa fa-facebook"></i><span>Facebook page</span></a></li>
-          <li class="social-links social-icons-holder social-square"><a class="pull-left contact-icon"
-              href="https://www.instagram.com/thewolfden2024" target="_blank"><i
-                class="social-icon fa fa-instagram"></i><span>Instagram page</span></a></li>
-          <li class="social-links social-icons-holder social-square"><a class="pull-left contact-icon"
-              href="https://www.google.com/search?q=The+Wolf+Den+Bar+%26+Grill+501+Ralston+Street%0D%0AReno%2C+NV%0D%0A89503&sca_esv=304c4ee5713996df&rlz=1C1YTUH_enRS1087RS1087&ei=TvBbZ-SMMZiH9u8P1fbbeQ&ved=0ahUKEwjk67n8qaSKAxWYg_0HHVX7Ng8Q4dUDCBA&uact=5&oq=The+Wolf+Den+Bar+%26+Grill+501+Ralston+Street%0D%0AReno%2C+NV%0D%0A89503&gs_lp=Egxnd3Mtd2l6LXNlcnAiOlRoZSBXb2xmIERlbiBCYXIgJiBHcmlsbCA1MDEgUmFsc3RvbiBTdHJlZXQKUmVubywgTlYKODk1MDMyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdI3wtQJFi5A3ABeAGQAQCYAacDoAGnA6oBAzQtMbgBA8gBAPgBAfgBApgCAaACDJgDAIgGAZAGBJIHATGgB7UI&sclient=gws-wiz-serp#lrd=0x80994721820bc319:0xbc171a0b3401348c,1,,,,"
-              target="_blank"><i aria-hidden="true" class="social-icon fa fa-google"></i><span>Google page</span></a>
+          <li class="social-links social-icons-holder social-square"><a class="pull-left contact-icon" href="https://www.facebook.com/490394574147316" target="_blank"><i class="social-icon fa fa-facebook"></i><span>Facebook page</span></a></li>
+          <li class="social-links social-icons-holder social-square"><a class="pull-left contact-icon" href="https://www.instagram.com/thewolfden2024" target="_blank"><i class="social-icon fa fa-instagram"></i><span>Instagram page</span></a></li>
+          <li class="social-links social-icons-holder social-square"><a class="pull-left contact-icon" href="https://www.google.com/search?q=The+Wolf+Den+Bar+%26+Grill+501+Ralston+Street%0D%0AReno%2C+NV%0D%0A89503&amp;sca_esv=304c4ee5713996df&amp;rlz=1C1YTUH_enRS1087RS1087&amp;ei=TvBbZ-SMMZiH9u8P1fbbeQ&amp;ved=0ahUKEwjk67n8qaSKAxWYg_0HHVX7Ng8Q4dUDCBA&amp;uact=5&amp;oq=The+Wolf+Den+Bar+%26+Grill+501+Ralston+Street%0D%0AReno%2C+NV%0D%0A89503&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiOlRoZSBXb2xmIERlbiBCYXIgJiBHcmlsbCA1MDEgUmFsc3RvbiBTdHJlZXQKUmVubywgTlYKODk1MDMyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdI3wtQJFi5A3ABeAGQAQCYAacDoAGnA6oBAzQtMbgBA8gBAPgBAfgBApgCAaACDJgDAIgGAZAGBJIHATGgB7UI&amp;sclient=gws-wiz-serp#lrd=0x80994721820bc319:0xbc171a0b3401348c,1,,,," target="_blank"><i aria-hidden="true" class="social-icon fa fa-google"></i><span>Google page</span></a>
           </li>
         </ul>
-        <div class="navbar-header"><button class="navbar-toggle" data-target="#navbar-collapse-1" data-toggle="collapse"
-            type="button"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
-              class="icon-bar"></span><span class="icon-bar"></span></button></div>
+        <div class="navbar-header"><button class="navbar-toggle" data-target="#navbar-collapse-1" data-toggle="collapse" type="button"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button></div>
         <div class="collapse navbar-collapse" id="navbar-collapse-1">
           <ul class="nav navbar-nav navbar-right">
-            <li class=" nav-menu-page"><a class=""
-                href="./menu/thewolfdenbar.com/reno-the-wolf-den-bar-and-grill-food-menu/index.html"
-                id="mobile_/Reno-The-Wolf-Den-Bar-and-Grill-food-menu_link" target="_self">
+            <li class=" nav-menu-page"><a class="" href="https://thewolfdenbar.netlify.app/menu/thewolfdenbar.com/reno-the-wolf-den-bar-and-grill-food-menu/" id="mobile_/Reno-The-Wolf-Den-Bar-and-Grill-food-menu_link" target="_self">
                 Menu
               </a></li>
-            <li class=" "><a class=""
-                href="./drinks/thewolfdenbar.com/reno-the-wolf-den-bar-and-grill-drink-menu/index.html"
-                id="mobile_/Reno-The-Wolf-Den-Bar-and-Grill-drink-menu_link" target="_self">
+            <li class=" "><a class="" href="https://thewolfdenbar.netlify.app/drinks/thewolfdenbar.com/reno-the-wolf-den-bar-and-grill-drink-menu/" id="mobile_/Reno-The-Wolf-Den-Bar-and-Grill-drink-menu_link" target="_self">
                 Drinks
               </a></li>
-            <li class=" "><a class=""
-                href="./special/thewolfdenbar.com/reno-the-wolf-den-bar-and-grill-happy-hours-specials/index.html"
-                id="mobile_/Reno-The-Wolf-Den-Bar-and-Grill-happy-hours-specials_link" target="_self">
+            <li class=" "><a class="" href="https://thewolfdenbar.netlify.app/special/thewolfdenbar.com/reno-the-wolf-den-bar-and-grill-happy-hours-specials/" id="mobile_/Reno-The-Wolf-Den-Bar-and-Grill-happy-hours-specials_link" target="_self">
                 Specials
               </a></li>
-            <li class=" "><a class="" href="./event/thewolfdenbar.com/reno-the-wolf-den-bar-and-grill-events/index.html"
-                id="mobile_/Reno-The-Wolf-Den-Bar-and-Grill-events_link" target="_self">
+            <li class=" "><a class="" href="https://thewolfdenbar.netlify.app/event/thewolfdenbar.com/reno-the-wolf-den-bar-and-grill-events/" id="mobile_/Reno-The-Wolf-Den-Bar-and-Grill-events_link" target="_self">
                 Events
               </a></li>
-            <li class=" nav-reservations-link"><a class="link-reservations-sh"
-                href="./reserve/thewolfdenbar.com/reno-the-wolf-den-bar-and-grill-reservations/index.html"
-                id="mobile_/Reno-The-Wolf-Den-Bar-and-Grill-reservations#_link" target="_self">
+            <li class=" nav-reservations-link"><a class="link-reservations-sh" href="https://thewolfdenbar.netlify.app/reserve/thewolfdenbar.com/reno-the-wolf-den-bar-and-grill-reservations/" id="mobile_/Reno-The-Wolf-Den-Bar-and-Grill-reservations#_link" target="_self">
                 Reserve
               </a></li>
-            <li class=" nav-order-link"><a class="link-order-sh" href="https://wolfdenbar.square.site/#"
-                id="mobile_wolfdenbar.square.site/#_link" target="_self">
+            <li class=" nav-order-link"><a class="link-order-sh" href="https://wolfdenbar.square.site/#" id="mobile_wolfdenbar.square.site/#_link" target="_self">
                 Order
               </a></li>
-            <li class=" nav-jobs-link"><a class="link-jobs-sh"
-                href="./jobs/thewolfdenbar.com/reno-the-wolf-den-bar-jobs/index.html"
-                id="mobile_tmt.spotapps.co/job-listings?spot_id=346270_link" target="_self">
+            <li class=" nav-jobs-link"><a class="link-jobs-sh" href="https://thewolfdenbar.netlify.app/jobs/thewolfdenbar.com/reno-the-wolf-den-bar-jobs/" id="mobile_tmt.spotapps.co/job-listings?spot_id=346270_link" target="_self">
                 Jobs
               </a></li>
           </ul>
@@ -1258,15 +1186,10 @@ scripting_active: false
         .video-controls-btn {
           color: rgba(255, 255, 255, 0.9);
         }
-      </style><video autoplay="autoplay" id="coverVideo" loop="loop" muted="muted" playsinline="playsinline"
-        poster="https://static.spotapps.co/website_images/ab_websites/346270_website_v1/video_poster.jpg">
+      </style><video autoplay="autoplay" id="coverVideo" loop="loop" muted="muted" playsinline="playsinline" poster="https://static.spotapps.co/website_images/ab_websites/346270_website_v1/video_poster.jpg">
         <source src="./namoapps.co/website_videos/The_Wolf_Den_Bar_%2526_Grill_Video_Vimeo720p30.mp4" type="video/mp4">
-      </video><button aria-label="The decorative video is currently playing, pause the video" class="video-controls-btn"
-        id="cover_video_controls_btn" type="button"><span class="off-screen">The decorative video is currently
-          playing</span><i aria-hidden="true" class="fa fa-play"></i><i aria-hidden="true"
-          class="fa fa-pause"></i></button><button aria-label="The decorative video sound is off, turn it on"
-        class="video-volume-btn" type="button"><span class="off-screen">The decorative video sound is off</span><i
-          aria-hidden="true" class="fa fa-volume-off"></i><i aria-hidden="true" class="fa fa-volume-up"></i></button>
+      </video><button aria-label="The decorative video is currently playing, pause the video" class="video-controls-btn" id="cover_video_controls_btn" type="button"><span class="off-screen">The decorative video is currently
+          playing</span><i aria-hidden="true" class="fa fa-play"></i><i aria-hidden="true" class="fa fa-pause"></i></button><button aria-label="The decorative video sound is off, turn it on" class="video-volume-btn off" type="button"><span class="off-screen">The decorative video sound is off</span><i aria-hidden="true" class="fa fa-volume-off"></i><i aria-hidden="true" class="fa fa-volume-up"></i></button>
     </div>
   </header>
   <main id="content" role="main">
@@ -1283,7 +1206,7 @@ scripting_active: false
           <h1 class="section-header">A Truly Local Experience</h1>
           <h2>Whether you're cheering on your team or relaxing over a hearty meal, The Wolf Den is your go-to spot for
             good vibes and great times</h2>
-          <p><a class="custom-temp-btn hvr-fade" href="/reno-the-wolf-den-bar-and-grill-food-menu" target="_self">view
+          <p><a class="custom-temp-btn hvr-fade" href="https://thewolfdenbar.netlify.app/reno-the-wolf-den-bar-and-grill-food-menu" target="_self">view
               menu</a></p>
         </div>
       </div>
@@ -1400,9 +1323,9 @@ scripting_active: false
       <div class="about-us-v8-wrapper section-wrapper" id="aboutus_v8">
         <div class="container about-us-v8">
           <section>
-            <div class="about-us-v8-item about-us-v8-item-0 image-only-item about-us-v8-item-left" style="padding: 0;">
+            <div class="about-us-v8-item about-us-v8-item-0 image-only-item about-us-v8-item-left animate" style="padding: 0;">
               <!-- start About us item -->
-              <div aria-label="" class="about-us-v8-image" role="presentation" style="background-image: url('./namoapps.co/website_images/ab_websites/346270_website_v1/divider1.jpg'); width: 100%;
+              <div aria-label="" class="about-us-v8-image" role="presentation" style="background-image: url(&#39;./namoapps.co/website_images/ab_websites/346270_website_v1/divider1.jpg&#39;); width: 100%;
                               "><!-- start Left About us image --></div><!-- end Left About us image -->
               <div class="about-us-v8-content " style="width: 0%; 
             color: #000;
@@ -1416,16 +1339,15 @@ scripting_active: false
             </div><!-- end About us item -->
           </section>
           <section>
-            <div class="about-us-v8-item about-us-v8-item-1  about-us-v8-item-right" style="padding: 40px 0 20px 0;">
+            <div class="about-us-v8-item about-us-v8-item-1  about-us-v8-item-right animate" style="padding: 40px 0 20px 0;">
               <!-- start About us item -->
-              <div aria-label="" class="about-us-v8-image visible-xs about-no-image" role="presentation"
-                style="width: 0%;"><!-- start Left About us image --></div><!-- end Left About us image -->
+              <div aria-label="" class="about-us-v8-image visible-xs about-no-image" role="presentation" style="width: 0%;"><!-- start Left About us image --></div><!-- end Left About us image -->
               <div class="about-us-v8-content " style="width: 100%; 
             color: #1C1B1A;
             background: rgba(250, 250, 250, 0);                        text-align: center;">
                 <div class="text-wrapper" style="padding: 0 28%;">
                   <div class="text-content ">
-                    <h1 style="color: #152953;"><span>Hungry? Order & Enjoy</span></h1>
+                    <h1 style="color: #152953;"><span>Hungry? Order &amp; Enjoy</span></h1>
                     <div class="text-holder">
                       <h2>your favorite food - just a click away</h2>
                       <p>Whether you're short on time or just prefer convenience, online ordering is a great way to get
@@ -1437,14 +1359,13 @@ scripting_active: false
                   </div>
                 </div>
               </div><!-- start Right About us image -->
-              <div aria-label="" class="about-us-v8-image hidden-xs about-no-image" role="presentation"
-                style="width: 0%;"></div><!-- end Right About us image -->
+              <div aria-label="" class="about-us-v8-image hidden-xs about-no-image" role="presentation" style="width: 0%;"></div><!-- end Right About us image -->
             </div><!-- end About us item -->
           </section>
           <section>
-            <div class="about-us-v8-item about-us-v8-item-2 image-only-item about-us-v8-item-left" style="padding: 0;">
+            <div class="about-us-v8-item about-us-v8-item-2 image-only-item about-us-v8-item-left animate" style="padding: 0;">
               <!-- start About us item -->
-              <div aria-label="" class="about-us-v8-image" role="presentation" style="background-image: url('./namoapps.co/website_images/ab_websites/346270_website_v1/divider2.jpg'); width: 100%;
+              <div aria-label="" class="about-us-v8-image" role="presentation" style="background-image: url(&#39;./namoapps.co/website_images/ab_websites/346270_website_v1/divider2.jpg&#39;); width: 100%;
                               "><!-- start Left About us image --></div><!-- end Left About us image -->
               <div class="about-us-v8-content " style="width: 0%; 
             color: #000;
@@ -1460,8 +1381,7 @@ scripting_active: false
           <section>
             <div class="about-us-v8-item about-us-v8-item-3  about-us-v8-item-right" style="padding: 40px 0 20px 0;">
               <!-- start About us item -->
-              <div aria-label="" class="about-us-v8-image visible-xs about-no-image" role="presentation"
-                style="width: 0%;"><!-- start Left About us image --></div><!-- end Left About us image -->
+              <div aria-label="" class="about-us-v8-image visible-xs about-no-image" role="presentation" style="width: 0%;"><!-- start Left About us image --></div><!-- end Left About us image -->
               <div class="about-us-v8-content " style="width: 100%; 
             color: #1C1B1A;
             background: rgba(250, 250, 250, 0);                        text-align: center;">
@@ -1470,18 +1390,16 @@ scripting_active: false
                     <h1 style="color: #152953;"><span>Specialties Of The House</span></h1>
                     <div class="text-holder">
                       <h2>something delicious everyday</h2>
-                      <p>At The Wolf Den Bar & Grill, every day brings something new and delicious! Whether you're a
+                      <p>At The Wolf Den Bar &amp; Grill, every day brings something new and delicious! Whether you're a
                         regular or a first-time visitor, our daily specials are designed to tantalize your taste buds
                         and leave you coming back for more.</p>
                     </div>
-                    <p><a class="custom-temp-btn hvr-fade" href="/reno-the-wolf-den-bar-and-grill-happy-hours-specials"
-                        target="_self">
+                    <p><a class="custom-temp-btn hvr-fade" href="https://thewolfdenbar.netlify.app/reno-the-wolf-den-bar-and-grill-happy-hours-specials" target="_self">
                         all specials </a></p>
                   </div>
                 </div>
               </div><!-- start Right About us image -->
-              <div aria-label="" class="about-us-v8-image hidden-xs about-no-image" role="presentation"
-                style="width: 0%;"></div><!-- end Right About us image -->
+              <div aria-label="" class="about-us-v8-image hidden-xs about-no-image" role="presentation" style="width: 0%;"></div><!-- end Right About us image -->
             </div><!-- end About us item -->
           </section>
         </div>
@@ -1490,67 +1408,30 @@ scripting_active: false
     </article>
     <article class="hide-show-section" data-hidden="no">
       <style></style>
-      <div class="gallery-v4-wrapper section-wrapper" id="gallery_v4"><button
-          class="visuallyhidden skip-content gallery-toggle gt-off">Skip Photo Gallery</button>
+      <div class="gallery-v4-wrapper section-wrapper" id="gallery_v4"><button class="visuallyhidden skip-content gallery-toggle gt-off" aria-label="The Photo Gallery of 7 images can be accessed, hide the Photo Gallery from the Screen Reader">Skip Photo Gallery</button>
         <div class="container">
-          <div class="gallery-v4-grid">
+          <div class="gallery-v4-grid" style="position: relative; width: 1365.94px; height: 546.391px;">
             <div class="gallery-v4-grid-sizer"></div>
-            <div class="gallery-v4-grid-item gallery-v4-grid-item--width2 gallery-hover animation_1"><a
-                class="fancybox fancybox.image"
-                href="//static.spotapps.co/spots/74/bc643622b54c94bb0322acdec657f3/full">
-                <div class="img"><img alt="Jalapeno Poppers." class="img-responsive lazyload"
-                    data-original="//static.spotapps.co/spots/74/bc643622b54c94bb0322acdec657f3/full" data-sizes="auto"
-                    data-src="//static.spotapps.co/spots/74/bc643622b54c94bb0322acdec657f3/full"
-                    data-srcset="//static.spotapps.co/spots/74/bc643622b54c94bb0322acdec657f3/small 200w, //static.spotapps.co/spots/74/bc643622b54c94bb0322acdec657f3/medium 400w, //static.spotapps.co/spots/74/bc643622b54c94bb0322acdec657f3/full 800w"
-                    src="./namoapps.co/web/placeholder.png"></div>
+            <div class="gallery-v4-grid-item gallery-v4-grid-item--width2 gallery-hover animation_1" style="position: absolute; left: 0%; top: 0px;"><a class="fancybox fancybox.image" href="./Hungry_files/full" rel="gallery">
+                <div class="img"><img alt="Jalapeno Poppers." class="img-responsive lazyautosizes lazyloaded" data-original="//static.spotapps.co/spots/74/bc643622b54c94bb0322acdec657f3/full" data-sizes="auto" data-src="//static.spotapps.co/spots/74/bc643622b54c94bb0322acdec657f3/full" data-srcset="//static.spotapps.co/spots/74/bc643622b54c94bb0322acdec657f3/small 200w, //static.spotapps.co/spots/74/bc643622b54c94bb0322acdec657f3/medium 400w, //static.spotapps.co/spots/74/bc643622b54c94bb0322acdec657f3/full 800w" src="./Hungry_files/full" sizes="546px" srcset="//static.spotapps.co/spots/74/bc643622b54c94bb0322acdec657f3/small 200w, //static.spotapps.co/spots/74/bc643622b54c94bb0322acdec657f3/medium 400w, //static.spotapps.co/spots/74/bc643622b54c94bb0322acdec657f3/full 800w"></div>
               </a></div>
-            <div class="gallery-v4-grid-item gallery-hover animation_1"><a class="fancybox fancybox.image"
-                href="//static.spotapps.co/spots/d7/c254cd36e546dbbe42d0601463db5a/full">
-                <div class="img"><img alt="Traditional Wings." class="img-responsive lazyload"
-                    data-original="//static.spotapps.co/spots/d7/c254cd36e546dbbe42d0601463db5a/full" data-sizes="auto"
-                    data-src="//static.spotapps.co/spots/d7/c254cd36e546dbbe42d0601463db5a/full"
-                    data-srcset="//static.spotapps.co/spots/d7/c254cd36e546dbbe42d0601463db5a/small 200w, //static.spotapps.co/spots/d7/c254cd36e546dbbe42d0601463db5a/medium 400w, //static.spotapps.co/spots/d7/c254cd36e546dbbe42d0601463db5a/full 800w"
-                    src="./namoapps.co/web/placeholder.png"></div>
+            <div class="gallery-v4-grid-item gallery-hover animation_1" style="position: absolute; left: 39.9707%; top: 0px;"><a class="fancybox fancybox.image" href="./Hungry_files/full(1)" rel="gallery">
+                <div class="img"><img alt="Traditional Wings." class="img-responsive lazyautosizes lazyloaded" data-original="//static.spotapps.co/spots/d7/c254cd36e546dbbe42d0601463db5a/full" data-sizes="auto" data-src="//static.spotapps.co/spots/d7/c254cd36e546dbbe42d0601463db5a/full" data-srcset="//static.spotapps.co/spots/d7/c254cd36e546dbbe42d0601463db5a/small 200w, //static.spotapps.co/spots/d7/c254cd36e546dbbe42d0601463db5a/medium 400w, //static.spotapps.co/spots/d7/c254cd36e546dbbe42d0601463db5a/full 800w" src="./Hungry_files/full(1)" sizes="273px" srcset="//static.spotapps.co/spots/d7/c254cd36e546dbbe42d0601463db5a/small 200w, //static.spotapps.co/spots/d7/c254cd36e546dbbe42d0601463db5a/medium 400w, //static.spotapps.co/spots/d7/c254cd36e546dbbe42d0601463db5a/full 800w"></div>
               </a></div>
-            <div class="gallery-v4-grid-item gallery-hover animation_1"><a class="fancybox fancybox.image"
-                href="//static.spotapps.co/spots/5e/e62a17a0ac4d1688c3dcaee39946f5/full">
-                <div class="img"><img alt="Meat Lovers." class="img-responsive lazyload"
-                    data-original="//static.spotapps.co/spots/5e/e62a17a0ac4d1688c3dcaee39946f5/full" data-sizes="auto"
-                    data-src="//static.spotapps.co/spots/5e/e62a17a0ac4d1688c3dcaee39946f5/full"
-                    data-srcset="//static.spotapps.co/spots/5e/e62a17a0ac4d1688c3dcaee39946f5/small 200w, //static.spotapps.co/spots/5e/e62a17a0ac4d1688c3dcaee39946f5/medium 400w, //static.spotapps.co/spots/5e/e62a17a0ac4d1688c3dcaee39946f5/full 800w"
-                    src="./namoapps.co/web/placeholder.png"></div>
+            <div class="gallery-v4-grid-item gallery-hover animation_1" style="position: absolute; left: 59.9561%; top: 0px;"><a class="fancybox fancybox.image" href="./Hungry_files/full(2)" rel="gallery">
+                <div class="img"><img alt="Meat Lovers." class="img-responsive lazyautosizes lazyloaded" data-original="//static.spotapps.co/spots/5e/e62a17a0ac4d1688c3dcaee39946f5/full" data-sizes="auto" data-src="//static.spotapps.co/spots/5e/e62a17a0ac4d1688c3dcaee39946f5/full" data-srcset="//static.spotapps.co/spots/5e/e62a17a0ac4d1688c3dcaee39946f5/small 200w, //static.spotapps.co/spots/5e/e62a17a0ac4d1688c3dcaee39946f5/medium 400w, //static.spotapps.co/spots/5e/e62a17a0ac4d1688c3dcaee39946f5/full 800w" src="./Hungry_files/full(2)" sizes="273px" srcset="//static.spotapps.co/spots/5e/e62a17a0ac4d1688c3dcaee39946f5/small 200w, //static.spotapps.co/spots/5e/e62a17a0ac4d1688c3dcaee39946f5/medium 400w, //static.spotapps.co/spots/5e/e62a17a0ac4d1688c3dcaee39946f5/full 800w"></div>
               </a></div>
-            <div class="gallery-v4-grid-item gallery-hover animation_1"><a class="fancybox fancybox.image"
-                href="//static.spotapps.co/spots/a9/4ada9b22734642a7e3d3093c72c305/full">
-                <div class="img"><img alt="Onion rings." class="img-responsive lazyload"
-                    data-original="//static.spotapps.co/spots/a9/4ada9b22734642a7e3d3093c72c305/full" data-sizes="auto"
-                    data-src="//static.spotapps.co/spots/a9/4ada9b22734642a7e3d3093c72c305/full"
-                    data-srcset="//static.spotapps.co/spots/a9/4ada9b22734642a7e3d3093c72c305/small 200w, //static.spotapps.co/spots/a9/4ada9b22734642a7e3d3093c72c305/medium 400w, //static.spotapps.co/spots/a9/4ada9b22734642a7e3d3093c72c305/full 800w"
-                    src="./namoapps.co/web/placeholder.png"></div>
+            <div class="gallery-v4-grid-item gallery-hover animation_1" style="position: absolute; left: 79.9414%; top: 0px;"><a class="fancybox fancybox.image" href="./Hungry_files/full(3)" rel="gallery">
+                <div class="img"><img alt="Onion rings." class="img-responsive lazyautosizes lazyloaded" data-original="//static.spotapps.co/spots/a9/4ada9b22734642a7e3d3093c72c305/full" data-sizes="auto" data-src="//static.spotapps.co/spots/a9/4ada9b22734642a7e3d3093c72c305/full" data-srcset="//static.spotapps.co/spots/a9/4ada9b22734642a7e3d3093c72c305/small 200w, //static.spotapps.co/spots/a9/4ada9b22734642a7e3d3093c72c305/medium 400w, //static.spotapps.co/spots/a9/4ada9b22734642a7e3d3093c72c305/full 800w" src="./Hungry_files/full(3)" sizes="273px" srcset="//static.spotapps.co/spots/a9/4ada9b22734642a7e3d3093c72c305/small 200w, //static.spotapps.co/spots/a9/4ada9b22734642a7e3d3093c72c305/medium 400w, //static.spotapps.co/spots/a9/4ada9b22734642a7e3d3093c72c305/full 800w"></div>
               </a></div>
-            <div class="gallery-v4-grid-item gallery-hover animation_1"><a class="fancybox fancybox.image"
-                href="//static.spotapps.co/spots/fb/9024b79acd42138bd218bf83de7570/full">
-                <div class="img"><img alt="Cadillac Margarita." class="img-responsive lazyload"
-                    data-original="//static.spotapps.co/spots/fb/9024b79acd42138bd218bf83de7570/full" data-sizes="auto"
-                    data-src="//static.spotapps.co/spots/fb/9024b79acd42138bd218bf83de7570/full"
-                    data-srcset="//static.spotapps.co/spots/fb/9024b79acd42138bd218bf83de7570/small 200w, //static.spotapps.co/spots/fb/9024b79acd42138bd218bf83de7570/medium 400w, //static.spotapps.co/spots/fb/9024b79acd42138bd218bf83de7570/full 800w"
-                    src="./namoapps.co/web/placeholder.png"></div>
+            <div class="gallery-v4-grid-item gallery-hover animation_1" style="position: absolute; left: 39.9707%; top: 273px;"><a class="fancybox fancybox.image" href="https://static.spotapps.co/spots/fb/9024b79acd42138bd218bf83de7570/full" rel="gallery">
+                <div class="img"><img alt="Cadillac Margarita." class="img-responsive lazyload" data-original="//static.spotapps.co/spots/fb/9024b79acd42138bd218bf83de7570/full" data-sizes="auto" data-src="//static.spotapps.co/spots/fb/9024b79acd42138bd218bf83de7570/full" data-srcset="//static.spotapps.co/spots/fb/9024b79acd42138bd218bf83de7570/small 200w, //static.spotapps.co/spots/fb/9024b79acd42138bd218bf83de7570/medium 400w, //static.spotapps.co/spots/fb/9024b79acd42138bd218bf83de7570/full 800w" src="./Hungry_files/placeholder.png"></div>
               </a></div>
-            <div class="gallery-v4-grid-item gallery-hover animation_1"><a class="fancybox fancybox.image"
-                href="//static.spotapps.co/spots/1f/4e14da2b3c4d459cbd31174b45d5c6/full">
-                <div class="img"><img alt="Lemon Drop Martini." class="img-responsive lazyload"
-                    data-original="//static.spotapps.co/spots/1f/4e14da2b3c4d459cbd31174b45d5c6/full" data-sizes="auto"
-                    data-src="//static.spotapps.co/spots/1f/4e14da2b3c4d459cbd31174b45d5c6/full"
-                    data-srcset="//static.spotapps.co/spots/1f/4e14da2b3c4d459cbd31174b45d5c6/small 200w, //static.spotapps.co/spots/1f/4e14da2b3c4d459cbd31174b45d5c6/medium 400w, //static.spotapps.co/spots/1f/4e14da2b3c4d459cbd31174b45d5c6/full 800w"
-                    src="./namoapps.co/web/placeholder.png"></div>
+            <div class="gallery-v4-grid-item gallery-hover animation_1" style="position: absolute; left: 59.9561%; top: 273px;"><a class="fancybox fancybox.image" href="https://static.spotapps.co/spots/1f/4e14da2b3c4d459cbd31174b45d5c6/full" rel="gallery">
+                <div class="img"><img alt="Lemon Drop Martini." class="img-responsive lazyload" data-original="//static.spotapps.co/spots/1f/4e14da2b3c4d459cbd31174b45d5c6/full" data-sizes="auto" data-src="//static.spotapps.co/spots/1f/4e14da2b3c4d459cbd31174b45d5c6/full" data-srcset="//static.spotapps.co/spots/1f/4e14da2b3c4d459cbd31174b45d5c6/small 200w, //static.spotapps.co/spots/1f/4e14da2b3c4d459cbd31174b45d5c6/medium 400w, //static.spotapps.co/spots/1f/4e14da2b3c4d459cbd31174b45d5c6/full 800w" src="./Hungry_files/placeholder.png"></div>
               </a></div>
-            <div class="gallery-v4-grid-item gallery-hover animation_1"><a class="fancybox fancybox.image"
-                href="//static.spotapps.co/spots/9b/6d22f8001f41acb8d407c11f5562d3/full">
-                <div class="img"><img alt="A light beer." class="img-responsive lazyload"
-                    data-original="//static.spotapps.co/spots/9b/6d22f8001f41acb8d407c11f5562d3/full" data-sizes="auto"
-                    data-src="//static.spotapps.co/spots/9b/6d22f8001f41acb8d407c11f5562d3/full"
-                    data-srcset="//static.spotapps.co/spots/9b/6d22f8001f41acb8d407c11f5562d3/small 200w, //static.spotapps.co/spots/9b/6d22f8001f41acb8d407c11f5562d3/medium 400w, //static.spotapps.co/spots/9b/6d22f8001f41acb8d407c11f5562d3/full 800w"
-                    src="./namoapps.co/web/placeholder.png"></div>
+            <div class="gallery-v4-grid-item gallery-hover animation_1" style="position: absolute; left: 79.9414%; top: 273px;"><a class="fancybox fancybox.image" href="https://static.spotapps.co/spots/9b/6d22f8001f41acb8d407c11f5562d3/full" rel="gallery">
+                <div class="img"><img alt="A light beer." class="img-responsive lazyload" data-original="//static.spotapps.co/spots/9b/6d22f8001f41acb8d407c11f5562d3/full" data-sizes="auto" data-src="//static.spotapps.co/spots/9b/6d22f8001f41acb8d407c11f5562d3/full" data-srcset="//static.spotapps.co/spots/9b/6d22f8001f41acb8d407c11f5562d3/small 200w, //static.spotapps.co/spots/9b/6d22f8001f41acb8d407c11f5562d3/medium 400w, //static.spotapps.co/spots/9b/6d22f8001f41acb8d407c11f5562d3/full 800w" src="./Hungry_files/placeholder.png"></div>
               </a></div>
           </div>
         </div>
@@ -1659,8 +1540,7 @@ scripting_active: false
           <section>
             <div class="about-us-v8-item about-us-v8-item-0  about-us-v8-item-right" style="padding: 20px 0 0 0;">
               <!-- start About us item -->
-              <div aria-label="" class="about-us-v8-image visible-xs about-no-image" role="presentation"
-                style="width: 0%;"><!-- start Left About us image --></div><!-- end Left About us image -->
+              <div aria-label="" class="about-us-v8-image visible-xs about-no-image" role="presentation" style="width: 0%;"><!-- start Left About us image --></div><!-- end Left About us image -->
               <div class="about-us-v8-content " style="width: 100%; 
             color: #1C1B1A;
             background: rgba(250, 250, 250, 0);                        text-align: center;">
@@ -1674,14 +1554,13 @@ scripting_active: false
                   </div>
                 </div>
               </div><!-- start Right About us image -->
-              <div aria-label="" class="about-us-v8-image hidden-xs about-no-image" role="presentation"
-                style="width: 0%;"></div><!-- end Right About us image -->
+              <div aria-label="" class="about-us-v8-image hidden-xs about-no-image" role="presentation" style="width: 0%;"></div><!-- end Right About us image -->
             </div><!-- end About us item -->
           </section>
           <section>
             <div class="about-us-v8-item about-us-v8-item-1 image-only-item about-us-v8-item-left" style="padding: 0;">
               <!-- start About us item -->
-              <div aria-label="" class="about-us-v8-image" role="presentation" style="background-image: url('./namoapps.co/website_images/ab_websites/346270_website_v1/divider3.jpg'); width: 100%;
+              <div aria-label="" class="about-us-v8-image" role="presentation" style="background-image: url(&#39;./namoapps.co/website_images/ab_websites/346270_website_v1/divider3.jpg&#39;); width: 100%;
                               "><!-- start Left About us image --></div><!-- end Left About us image -->
               <div class="about-us-v8-content " style="width: 0%; 
             color: #000;
@@ -1705,55 +1584,37 @@ scripting_active: false
         }
       </style>
       <div class="slideshow-v2-wrapper" id="slideshow_v2">
-        <div aria-label="slideshow carousel" class="uk-slidenav-position" data-uk-slideshow="data-uk-slideshow"
-          role="region" style="height:650px"><button
-            aria-label="The slideshow is currently playing, pause the slideshow" class="slideshow-controls-btn playing"
-            type="button"><span class="off-screen">slideshow start stop playing</span><i aria-hidden="true"
-              class="fa fa-play"></i><i aria-hidden="true" class="fa fa-pause"></i></button>
+        <div aria-label="slideshow carousel" class="uk-slidenav-position" data-uk-slideshow="data-uk-slideshow" role="region" style="height:650px"><button aria-label="The slideshow is currently playing, pause the slideshow" class="slideshow-controls-btn playing" type="button"><span class="off-screen">The slideshow is currently playing</span><i aria-hidden="true" class="fa fa-play"></i><i aria-hidden="true" class="fa fa-pause"></i></button>
           <ul class="uk-dotnav uk-dotnav-contrast uk-position-bottom uk-flex-center">
-            <li data-uk-slideshow-item="0"><a href="" role="button"><span class="off-screen">Slide 1 content</span></a>
+            <li data-uk-slideshow-item="0" class=""><a href="https://thewolfdenbar.netlify.app/" role="button" aria-current="false"><span class="off-screen">Slide 1 content</span></a>
             </li>
-            <li data-uk-slideshow-item="1"><a href="" role="button"><span class="off-screen">Slide 2 content</span></a>
+            <li data-uk-slideshow-item="1" class=""><a href="https://thewolfdenbar.netlify.app/" role="button" aria-current="false"><span class="off-screen">Slide 2 content</span></a>
             </li>
-            <li data-uk-slideshow-item="2"><a href="" role="button"><span class="off-screen">Slide 3 content</span></a>
+            <li data-uk-slideshow-item="2" class="uk-active"><a href="https://thewolfdenbar.netlify.app/" role="button" aria-current="true"><span class="off-screen">Slide 3 content</span></a>
             </li>
-          </ul><a class="uk-slidenav uk-slidenav-contrast uk-slidenav-previous" data-uk-slideshow-item="previous"
-            href=""><span class="off-screen">previous slide</span></a><a
-            class="uk-slidenav uk-slidenav-contrast uk-slidenav-next" data-uk-slideshow-item="next" href=""><span
-              class="off-screen">next slide</span></a>
-          <ul class="uk-slideshow ">
-            <li><img alt="slideshow photo number 1"
-                src="//res.cloudinary.com/spothopper/image/fetch/f_auto,q_auto:best,c_fit,h_1200/http://static.spotapps.co/spots/a9/4ada9b22734642a7e3d3093c72c305/:original">
-              <div
-                class="uk-overlay-panel uk-overlay-background uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
+          </ul><a class="uk-slidenav uk-slidenav-contrast uk-slidenav-previous" data-uk-slideshow-item="previous" href="https://thewolfdenbar.netlify.app/"><span class="off-screen">previous slide</span></a><a class="uk-slidenav uk-slidenav-contrast uk-slidenav-next" data-uk-slideshow-item="next" href="https://thewolfdenbar.netlify.app/"><span class="off-screen">next slide</span></a>
+          <ul class="uk-slideshow " style="height: 100%;">
+            <li aria-hidden="true" class="" style="height: 100%; animation-duration: 500ms;"><div class="uk-cover-background uk-position-cover" role="presentation" aria-label="" style="background-image: url(&quot;//res.cloudinary.com/spothopper/image/fetch/f_auto,q_auto:best,c_fit,h_1200/http://static.spotapps.co/spots/a9/4ada9b22734642a7e3d3093c72c305/:original&quot;);"></div><img alt="slideshow photo number 1" src="./Hungry_files/_original" style="width: 100%; height: auto; opacity: 0;">
+              <div class="uk-overlay-panel uk-overlay-background uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
                 <div class="container">
                   <h1>always freshly prepared</h1>
-                  <div class="buttons-group-holder"><a class="custom-temp-btn hvr-fade"
-                      href="./special/thewolfdenbar.com/reno-the-wolf-den-bar-and-grill-happy-hours-specials/index.html"
-                      target="_self">all specials</a></div>
+                  <div class="buttons-group-holder"><a class="custom-temp-btn hvr-fade" href="https://thewolfdenbar.netlify.app/special/thewolfdenbar.com/reno-the-wolf-den-bar-and-grill-happy-hours-specials/" target="_self" tabindex="-1">all specials</a></div>
                 </div>
               </div>
             </li>
-            <li><img alt="slideshow photo number 2"
-                src="//res.cloudinary.com/spothopper/image/fetch/f_auto,q_auto:best,c_fit,h_1200/http://static.spotapps.co/spots/ab/b9bae7ddbe4863ba87d22c8b5446b2/:original">
-              <div
-                class="uk-overlay-panel uk-overlay-background uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
+            <li aria-hidden="true" class="" style="height: 100%; animation-duration: 500ms;"><div class="uk-cover-background uk-position-cover" role="presentation" aria-label="" style="background-image: url(&quot;//res.cloudinary.com/spothopper/image/fetch/f_auto,q_auto:best,c_fit,h_1200/http://static.spotapps.co/spots/ab/b9bae7ddbe4863ba87d22c8b5446b2/:original&quot;);"></div><img alt="slideshow photo number 2" src="./Hungry_files/_original(1)" style="width: 100%; height: auto; opacity: 0;">
+              <div class="uk-overlay-panel uk-overlay-background uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
                 <div class="container">
                   <h1>easy online orders</h1>
-                  <div class="buttons-group-holder"><a class="custom-temp-btn hvr-fade"
-                      href="https://wolfdenbar.square.site/" target="_self">Order now</a></div>
+                  <div class="buttons-group-holder"><a class="custom-temp-btn hvr-fade" href="https://wolfdenbar.square.site/" target="_self" tabindex="-1">Order now</a></div>
                 </div>
               </div>
             </li>
-            <li><img alt="slideshow photo number 3"
-                src="//res.cloudinary.com/spothopper/image/fetch/f_auto,q_auto:best,c_fit,h_1200/http://static.spotapps.co/spots/82/787e3db75a4f558db768226a2df645/:original">
-              <div
-                class="uk-overlay-panel uk-overlay-background uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
+            <li aria-hidden="false" class="uk-active" style="height: 100%; animation-duration: 500ms;"><div class="uk-cover-background uk-position-cover" role="presentation" aria-label="" style="background-image: url(&quot;//res.cloudinary.com/spothopper/image/fetch/f_auto,q_auto:best,c_fit,h_1200/http://static.spotapps.co/spots/82/787e3db75a4f558db768226a2df645/:original&quot;);"></div><img alt="slideshow photo number 3" src="./Hungry_files/_original(2)" style="width: 100%; height: auto; opacity: 0;">
+              <div class="uk-overlay-panel uk-overlay-background uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
                 <div class="container">
                   <h1>your go-to sports bar</h1>
-                  <div class="buttons-group-holder"><a class="custom-temp-btn hvr-fade"
-                      href="./event/thewolfdenbar.com/reno-the-wolf-den-bar-and-grill-events/index.html"
-                      target="_self">view events</a></div>
+                  <div class="buttons-group-holder"><a class="custom-temp-btn hvr-fade" href="https://thewolfdenbar.netlify.app/event/thewolfdenbar.com/reno-the-wolf-den-bar-and-grill-events/" target="_self" tabindex="0">view events</a></div>
                 </div>
               </div>
             </li>
@@ -1782,28 +1643,75 @@ scripting_active: false
         <h1 class="section-header">Customer Reviews</h1>
         <div class="container">
           <div aria-label="reviews carousel" class="row" role="region">
-            <div class="carousel-controls" id="ReviewesCarouselControls"><button
-                aria-label="The Reviews carousel is currently playing, pause the Reviews carousel"
-                class="carousel-control-btn stop-carousel" type="button"><i aria-hidden="true"
-                  class="fa fa-pause"></i><i aria-hidden="true" class="fa fa-play"></i><span class="visuallyhidden">
+            <div class="carousel-controls" id="ReviewesCarouselControls"><button aria-label="The Reviews carousel is currently playing, pause the Reviews carousel" class="carousel-control-btn stop-carousel" type="button"><i aria-hidden="true" class="fa fa-pause"></i><i aria-hidden="true" class="fa fa-play"></i><span class="visuallyhidden">
                   Start stop reviews carousel</span></button></div>
-            <ul class="owl-dots">
-              <li class="owl-dot"></li>
-              <li class="owl-dot"></li>
-              <li class="owl-dot"></li>
-              <li class="owl-dot"></li>
-              <li class="owl-dot"></li>
-            </ul>
+            
             <div class="col-md-12 col-xs-12">
-              <div class="owl-carousel owl-theme">
-                <section>
+              <div class="owl-carousel owl-theme owl-loaded owl-drag">
+                
+                
+                
+                
+                
+              <ul class="owl-dots">
+              <li class="owl-dot"><button aria-label="Review 1" aria-current="false"><span class="visuallyhidden">Review 1</span></button></li>
+              <li class="owl-dot active"><button aria-label="Review 2" aria-current="true"><span class="visuallyhidden">Review 2</span></button></li>
+              <li class="owl-dot"><button aria-label="Review 3" aria-current="false"><span class="visuallyhidden">Review 3</span></button></li>
+              <li class="owl-dot"><button aria-label="Review 4" aria-current="false"><span class="visuallyhidden">Review 4</span></button></li>
+              <li class="owl-dot"><button aria-label="Review 5" aria-current="false"><span class="visuallyhidden">Review 5</span></button></li>
+            </ul><div class="owl-nav"><div class="owl-prev"><button aria-label="previous review">9</button></div><div class="owl-next"><button aria-label="next review">:</button></div></div><div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2844px, 0px, 0px); transition: 0.25s; width: 7821px;"><div class="owl-item cloned" aria-hidden="true" style="width: 711px;"><section>
+                  <div class="item">
+                    <h2>Review by - Google</h2>
+                    <h3><span class="visuallyhidden">five star review by</span>
+                      Shannon S:
+                      <i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i>
+                    </h3>
+                    <div class="review-text">
+                      <div aria-hidden="true" class="review-quote quote-left"><i class="fa fa-quote-left"></i></div>
+                      <div aria-hidden="true" class="review-quote quote-right"><i class="fa fa-quote-right"></i></div>
+                      <blockquote>
+                        <p>Pizza was delicious and service was great, friendly staff. Great atmosphere for watching
+                          sports. Full bar with our favorite beer. Highly recommend.</p>
+                      </blockquote>
+                    </div>
+                  </div>
+                </section></div><div class="owl-item cloned" aria-hidden="true" style="width: 711px;"><section>
+                  <div class="item">
+                    <h2>Review by - Google</h2>
+                    <h3><span class="visuallyhidden">five star review by</span>
+                      Rajwinder T:
+                      <i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i>
+                    </h3>
+                    <div class="review-text">
+                      <div aria-hidden="true" class="review-quote quote-left"><i class="fa fa-quote-left"></i></div>
+                      <div aria-hidden="true" class="review-quote quote-right"><i class="fa fa-quote-right"></i></div>
+                      <blockquote>
+                        <p>Decent place, went for brunch. Pleasant servers. I will definitely be back to try other menu.
+                        </p>
+                      </blockquote>
+                    </div>
+                  </div>
+                </section></div><div class="owl-item cloned" aria-hidden="true" style="width: 711px;"><section>
+                  <div class="item">
+                    <h2>Review by - Google</h2>
+                    <h3><span class="visuallyhidden">five star review by</span>
+                      Troy F:
+                      <i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i>
+                    </h3>
+                    <div class="review-text">
+                      <div aria-hidden="true" class="review-quote quote-left"><i class="fa fa-quote-left"></i></div>
+                      <div aria-hidden="true" class="review-quote quote-right"><i class="fa fa-quote-right"></i></div>
+                      <blockquote>
+                        <p>Best place I've been to in a long time. Pizza was great, wings were awesome.</p>
+                      </blockquote>
+                    </div>
+                  </div>
+                </section></div><div class="owl-item" aria-hidden="true" style="width: 711px;"><section>
                   <div class="item">
                     <h2>Review by - Google</h2>
                     <h3><span class="visuallyhidden">five star review by</span>
                       Bailey C:
-                      <i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i
-                        aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i
-                        aria-hidden="true" class="fa fa-star"></i>
+                      <i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i>
                     </h3>
                     <div class="review-text">
                       <div aria-hidden="true" class="review-quote quote-left"><i class="fa fa-quote-left"></i></div>
@@ -1815,15 +1723,12 @@ scripting_active: false
                       </blockquote>
                     </div>
                   </div>
-                </section>
-                <section>
+                </section></div><div class="owl-item active" aria-hidden="false" style="width: 711px;"><section>
                   <div class="item">
                     <h2>Review by - Google</h2>
                     <h3><span class="visuallyhidden">five star review by</span>
                       Brady W:
-                      <i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i
-                        aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i
-                        aria-hidden="true" class="fa fa-star"></i>
+                      <i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i>
                     </h3>
                     <div class="review-text">
                       <div aria-hidden="true" class="review-quote quote-left"><i class="fa fa-quote-left"></i></div>
@@ -1835,15 +1740,12 @@ scripting_active: false
                       </blockquote>
                     </div>
                   </div>
-                </section>
-                <section>
+                </section></div><div class="owl-item" aria-hidden="true" style="width: 711px;"><section>
                   <div class="item">
                     <h2>Review by - Google</h2>
                     <h3><span class="visuallyhidden">five star review by</span>
                       Shannon S:
-                      <i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i
-                        aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i
-                        aria-hidden="true" class="fa fa-star"></i>
+                      <i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i>
                     </h3>
                     <div class="review-text">
                       <div aria-hidden="true" class="review-quote quote-left"><i class="fa fa-quote-left"></i></div>
@@ -1854,15 +1756,12 @@ scripting_active: false
                       </blockquote>
                     </div>
                   </div>
-                </section>
-                <section>
+                </section></div><div class="owl-item" aria-hidden="true" style="width: 711px;"><section>
                   <div class="item">
                     <h2>Review by - Google</h2>
                     <h3><span class="visuallyhidden">five star review by</span>
                       Rajwinder T:
-                      <i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i
-                        aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i
-                        aria-hidden="true" class="fa fa-star"></i>
+                      <i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i>
                     </h3>
                     <div class="review-text">
                       <div aria-hidden="true" class="review-quote quote-left"><i class="fa fa-quote-left"></i></div>
@@ -1873,15 +1772,12 @@ scripting_active: false
                       </blockquote>
                     </div>
                   </div>
-                </section>
-                <section>
+                </section></div><div class="owl-item" aria-hidden="true" style="width: 711px;"><section>
                   <div class="item">
                     <h2>Review by - Google</h2>
                     <h3><span class="visuallyhidden">five star review by</span>
                       Troy F:
-                      <i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i
-                        aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i
-                        aria-hidden="true" class="fa fa-star"></i>
+                      <i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i>
                     </h3>
                     <div class="review-text">
                       <div aria-hidden="true" class="review-quote quote-left"><i class="fa fa-quote-left"></i></div>
@@ -1891,8 +1787,57 @@ scripting_active: false
                       </blockquote>
                     </div>
                   </div>
-                </section>
-              </div>
+                </section></div><div class="owl-item cloned" aria-hidden="true" style="width: 711px;"><section>
+                  <div class="item">
+                    <h2>Review by - Google</h2>
+                    <h3><span class="visuallyhidden">five star review by</span>
+                      Bailey C:
+                      <i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i>
+                    </h3>
+                    <div class="review-text">
+                      <div aria-hidden="true" class="review-quote quote-left"><i class="fa fa-quote-left"></i></div>
+                      <div aria-hidden="true" class="review-quote quote-right"><i class="fa fa-quote-right"></i></div>
+                      <blockquote>
+                        <p>Just opened awesome sports bar! Several TVs with the games on. Full bar, great display.
+                          Outside dining and indoor. Several bar seats. Service is quick and efficient. Great food and
+                          great prices! Happy hour 3-6 Monday- Thursday!</p>
+                      </blockquote>
+                    </div>
+                  </div>
+                </section></div><div class="owl-item cloned" aria-hidden="true" style="width: 711px;"><section>
+                  <div class="item">
+                    <h2>Review by - Google</h2>
+                    <h3><span class="visuallyhidden">five star review by</span>
+                      Brady W:
+                      <i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i>
+                    </h3>
+                    <div class="review-text">
+                      <div aria-hidden="true" class="review-quote quote-left"><i class="fa fa-quote-left"></i></div>
+                      <div aria-hidden="true" class="review-quote quote-right"><i class="fa fa-quote-right"></i></div>
+                      <blockquote>
+                        <p>Great, new place that's a welcomed addition to the neighborhood! Staff are super friendly,
+                          and the place is very clean. Full bar, good food, and always has whatever game you're looking
+                          for on one of their tv's!</p>
+                      </blockquote>
+                    </div>
+                  </div>
+                </section></div><div class="owl-item cloned" aria-hidden="true" style="width: 711px;"><section>
+                  <div class="item">
+                    <h2>Review by - Google</h2>
+                    <h3><span class="visuallyhidden">five star review by</span>
+                      Shannon S:
+                      <i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i><i aria-hidden="true" class="fa fa-star"></i>
+                    </h3>
+                    <div class="review-text">
+                      <div aria-hidden="true" class="review-quote quote-left"><i class="fa fa-quote-left"></i></div>
+                      <div aria-hidden="true" class="review-quote quote-right"><i class="fa fa-quote-right"></i></div>
+                      <blockquote>
+                        <p>Pizza was delicious and service was great, friendly staff. Great atmosphere for watching
+                          sports. Full bar with our favorite beer. Highly recommend.</p>
+                      </blockquote>
+                    </div>
+                  </div>
+                </section></div></div></div></div>
             </div>
           </div>
         </div>
@@ -1911,7 +1856,7 @@ scripting_active: false
               <div class="text-wrapper">
                 <div class="text-content">
                   <h1 class="section-header">Let's Connect</h1>
-                  <script id="sph-widget-346270" type="text/javascript">
+                  <div id="email_subscription_346270_newsletter_widget1_8b7d954e08255b80839bf8e378456b66" class="spothopper-embeddable"><div class="sph-email-subscription">    <div class="sph-email-form">        	<h2>Sign up for our newsletter &amp; get exclusive offers and invites!</h2>        <label for="sph-newsletter-input-8b7d954e08255b80839bf8e378456b66" style="display: block; margin-top: 40px; margin-bottom: -10px; text-align: inherit; font-size: medium; font-weight: inherit; color: rgb(28, 27, 26);">Email (required)</label>        <input class="sph-email-input" id="sph-newsletter-input-8b7d954e08255b80839bf8e378456b66" type="email" placeholder="e.g. email@example.com" required="required"><span class="bar"></span>                 <button type="button" class="sph-submit-button  sph-newsletter-widget-1-btn custom-temp-btn hvr-fade" style="" id="8b7d954e08255b80839bf8e378456b66" onclick="submitEmail(this.id)"><span class="sph-submit-label">Submit</span><span class="sph-loading-img"><img src="./Hungry_files/loading.gif" alt="Newsletter Loader icon"></span></button>    </div>      <div class="sph-response-message">    </div></div></div><script type="text/javascript" async="" src="./Hungry_files/newsletter.js.download"></script><script id="sph-widget-346270" type="text/javascript">
                       (function () {
                         function async_load() {
                           var s = document.createElement('script');
@@ -1940,7 +1885,7 @@ scripting_active: false
           </section>
           <section>
             <div class="col-md-6 col-sm-12 col-xs-12 map-item">
-              <div aria-label="OpenStreet map" id="map-v3-container" role="region"></div>
+              <div aria-label="OpenStreet map" id="map-v3-container" role="region" class="leaflet-container leaflet-touch leaflet-fade-anim leaflet-touch-zoom" style="position: relative;"><div class="leaflet-pane leaflet-map-pane" style="transform: translate3d(0px, 0px, 0px);"><div class="leaflet-pane leaflet-tile-pane"><div class="leaflet-layer " style="z-index: 1; opacity: 1;"><div class="leaflet-tile-container leaflet-zoom-animated" style="z-index: 19; transform: translate3d(0px, 0px, 0px) scale(1);"><img alt="" role="presentation" src="./Hungry_files/24921.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(45px, 43px, 0px); opacity: 1;"><img alt="" role="presentation" src="./Hungry_files/24921(1).png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(301px, 43px, 0px); opacity: 1;"><img alt="" role="presentation" src="./Hungry_files/24920.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(45px, -213px, 0px); opacity: 1;"><img alt="" role="presentation" src="./Hungry_files/24920(1).png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(301px, -213px, 0px); opacity: 1;"><img alt="" role="presentation" src="./Hungry_files/24922.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(45px, 299px, 0px); opacity: 1;"><img alt="" role="presentation" src="./Hungry_files/24922(1).png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(301px, 299px, 0px); opacity: 1;"><img alt="" role="presentation" src="./Hungry_files/24921(2).png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-211px, 43px, 0px); opacity: 1;"><img alt="" role="presentation" src="./Hungry_files/24921(3).png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(557px, 43px, 0px); opacity: 1;"><img alt="" role="presentation" src="./Hungry_files/24920(2).png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-211px, -213px, 0px); opacity: 1;"><img alt="" role="presentation" src="./Hungry_files/24920(3).png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(557px, -213px, 0px); opacity: 1;"><img alt="" role="presentation" src="./Hungry_files/24922(2).png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-211px, 299px, 0px); opacity: 1;"><img alt="" role="presentation" src="./Hungry_files/24922(3).png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(557px, 299px, 0px); opacity: 1;"></div></div></div><div class="leaflet-pane leaflet-shadow-pane"><img src="./Hungry_files/marker-shadow.png" class="leaflet-marker-shadow leaflet-zoom-animated" alt="" style="margin-left: -12px; margin-top: -41px; width: 41px; height: 41px; transform: translate3d(338px, 260px, 0px);"></div><div class="leaflet-pane leaflet-overlay-pane"></div><div class="leaflet-pane leaflet-marker-pane"><img src="./Hungry_files/marker-icon.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" title="501 Ralston Street, Reno" alt="View 501 Ralston Street, Reno on Google maps - opens in a new tab" tabindex="0" role="link" style="margin-left: -12px; margin-top: -41px; width: 25px; height: 41px; transform: translate3d(338px, 260px, 0px); z-index: 260;"></div><div class="leaflet-pane leaflet-tooltip-pane"></div><div class="leaflet-pane leaflet-popup-pane"></div><div class="leaflet-proxy leaflet-zoom-animated"></div></div><div class="leaflet-control-container"><div class="leaflet-top leaflet-left"></div><div class="leaflet-top leaflet-right"></div><div class="leaflet-bottom leaflet-left"><div class="leaflet-control-zoom leaflet-bar leaflet-control"><a class="leaflet-control-zoom-in" href="https://thewolfdenbar.netlify.app/#" title="Zoom in" role="button" aria-label="Zoom in" tabindex="-1">+</a><a class="leaflet-control-zoom-out" href="https://thewolfdenbar.netlify.app/#" title="Zoom out" role="button" aria-label="Zoom out" tabindex="-1">−</a></div></div><div class="leaflet-bottom leaflet-right"><div class="leaflet-control-attribution leaflet-control"><a href="http://leafletjs.com/" title="A JS library for interactive maps">Leaflet</a> | © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> © <a href="http://cartodb.com/attributions">CartoDB</a></div></div></div></div>
             </div>
           </section>
         </div>
@@ -2016,14 +1961,7 @@ scripting_active: false
                     <div class="social-title">
                       <h1>Find us on...</h1>
                     </div>
-                    <div class="social-links social-icons-holder social-square"><a class="contact-icon"
-                        href="https://www.facebook.com/490394574147316" target="_blank"><i
-                          class="social-icon fa fa-facebook"></i><span>Facebook page</span></a><a class="contact-icon"
-                        href="https://www.instagram.com/thewolfden2024" target="_blank"><i
-                          class="social-icon fa fa-instagram"></i><span>Instagram page</span></a><a
-                        class="contact-icon google-icon"
-                        href="https://www.google.com/search?q=The+Wolf+Den+Bar+%26+Grill+501+Ralston+Street%0D%0AReno%2C+NV%0D%0A89503&sca_esv=304c4ee5713996df&rlz=1C1YTUH_enRS1087RS1087&ei=TvBbZ-SMMZiH9u8P1fbbeQ&ved=0ahUKEwjk67n8qaSKAxWYg_0HHVX7Ng8Q4dUDCBA&uact=5&oq=The+Wolf+Den+Bar+%26+Grill+501+Ralston+Street%0D%0AReno%2C+NV%0D%0A89503&gs_lp=Egxnd3Mtd2l6LXNlcnAiOlRoZSBXb2xmIERlbiBCYXIgJiBHcmlsbCA1MDEgUmFsc3RvbiBTdHJlZXQKUmVubywgTlYKODk1MDMyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdI3wtQJFi5A3ABeAGQAQCYAacDoAGnA6oBAzQtMbgBA8gBAPgBAfgBApgCAaACDJgDAIgGAZAGBJIHATGgB7UI&sclient=gws-wiz-serp#lrd=0x80994721820bc319:0xbc171a0b3401348c,1,,,,"
-                        target="_blank"><i aria-hidden="true" class="social-icon fa fa-google"></i><span>Google
+                    <div class="social-links social-icons-holder social-square"><a class="contact-icon" href="https://www.facebook.com/490394574147316" target="_blank"><i class="social-icon fa fa-facebook"></i><span>Facebook page</span></a><a class="contact-icon" href="https://www.instagram.com/thewolfden2024" target="_blank"><i class="social-icon fa fa-instagram"></i><span>Instagram page</span></a><a class="contact-icon google-icon" href="https://www.google.com/search?q=The+Wolf+Den+Bar+%26+Grill+501+Ralston+Street%0D%0AReno%2C+NV%0D%0A89503&amp;sca_esv=304c4ee5713996df&amp;rlz=1C1YTUH_enRS1087RS1087&amp;ei=TvBbZ-SMMZiH9u8P1fbbeQ&amp;ved=0ahUKEwjk67n8qaSKAxWYg_0HHVX7Ng8Q4dUDCBA&amp;uact=5&amp;oq=The+Wolf+Den+Bar+%26+Grill+501+Ralston+Street%0D%0AReno%2C+NV%0D%0A89503&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiOlRoZSBXb2xmIERlbiBCYXIgJiBHcmlsbCA1MDEgUmFsc3RvbiBTdHJlZXQKUmVubywgTlYKODk1MDMyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdI3wtQJFi5A3ABeAGQAQCYAacDoAGnA6oBAzQtMbgBA8gBAPgBAfgBApgCAaACDJgDAIgGAZAGBJIHATGgB7UI&amp;sclient=gws-wiz-serp#lrd=0x80994721820bc319:0xbc171a0b3401348c,1,,,," target="_blank"><i aria-hidden="true" class="social-icon fa fa-google"></i><span>Google
                           page</span></a></div>
                   </div>
                 </section>
@@ -2032,8 +1970,7 @@ scripting_active: false
                     <div class="contact-us-title">
                       <h1>Contact us</h1>
                     </div>
-                    <p><a href="tel:+17754486946" id="contact_us_v3_section_phone_link"><span
-                          class="visuallyhidden">Call us at </span>(775)-448-6946</a></p>
+                    <p><a href="tel:+17754486946" id="contact_us_v3_section_phone_link"><span class="visuallyhidden">Call us at </span>(775)-448-6946</a></p>
                     <p><a href="mailto:grsonsinc@gmail.com"><span class="visuallyhidden">Write us at
                         </span>grsonsinc@gmail.com</a></p>
                   </div>
@@ -2086,34 +2023,21 @@ scripting_active: false
       color: #848484;
     }
   </style>
-  <nav aria-label="mobile footer" class="navbar-fixed-bottom nav-v1" id="bottom-navbar">
+  <nav aria-label="mobile footer" class="navbar-fixed-bottom nav-v1 show-bottom-nav" id="bottom-navbar">
     <div>
-      <ul class="nav navbar-nav navbar-right">
-        <li class="bottom-list-item "><a class="bottom-link " href="https://wolfdenbar.square.site/" id="bottom_link_4"
-            target="_self">
-            Order </a></li>
-        <li class="bottom-list-item "><a class="bottom-link " href="/reno-the-wolf-den-bar-and-grill-reservations"
-            id="bottom_link_3" target="_self">
-            Reserve </a></li>
-        <li class="bottom-list-item "><a class="bottom-link "
-            href="/jobs/thewolfdenbar.com/reno-the-wolf-den-bar-jobs/index.html"
-            id="bottom_link_7" target="_self">
-            Jobs </a></li>
-      </ul>
+      <ul class="nav navbar-nav navbar-right"><li class="bottom-list-item" style="white-space: nowrap;width: auto;"><a class="bottom-link smart-footer-link" data-type="order" data-position="0" target="_blank" href="https://wolfdenbar.square.site/">Order</a></li><li class="bottom-list-item" style="white-space: nowrap;width: auto;"><a class="bottom-link smart-footer-link" data-type="reservations" data-position="1" target="_blank" href="https://thewolfdenbar.com/-reservations">Reserve</a></li><li class="bottom-list-item" style="white-space: nowrap;width: auto;"><a class="bottom-link smart-footer-link" data-type="job_listing" data-position="2" target="_self" href="https://tmt.spotapps.co/job-listings?spot_id=346270&amp;source=footer">Jobs</a></li></ul>
     </div>
   </nav>
-  <div aria-hidden="true" aria-label="newsletter dialog" class="modal fade custom-modal" id="CustomModal" role="dialog"
-    tabindex="-1">
+  <div aria-hidden="true" aria-label="newsletter dialog" class="modal fade custom-modal" id="CustomModal" role="dialog" tabindex="-1">
     <div class="modal-dialog modal-md" role="document">
       <div class="modal-content">
-        <div class="custom-modal-close"><button aria-label="Close" class="close" data-dismiss="modal"
-            type="button"><span aria-hidden="true">×</span></button></div>
+        <div class="custom-modal-close"><button aria-label="Close" class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span></button></div>
         <div class="modal-body">
           <div class="row">
             <div class="col-md-12">
               <div class="newsletter-popup">
                 <h1 class="section-header">Let's Connect</h1>
-                <script id="sph-widget-2ce08bd156a46491d83342eb4a039092" type="text/javascript">
+                <div id="email_subscription_346270_newsletter_widget2_d0265cd31a6ba3a2703b0fb66f403639" class="spothopper-embeddable"><div data-id="newsletter-widget-2" class="sph-email-subscription">    <div class="sph-email-form">        <h2>Sign up for our newsletter &amp; get exclusive offers and invites!</h2>      <div class="sh-form-group">        <label for="sph-newsletter-input-d0265cd31a6ba3a2703b0fb66f403639" class="sh-form-label" style="color: rgb(28, 27, 26);">          Email (required):        </label>        <span id="sph-newsletter-email-error-d0265cd31a6ba3a2703b0fb66f403639" class="sh-form-error" aria-live="assertive" style="display: none;"></span>        <input type="email" id="sph-newsletter-input-d0265cd31a6ba3a2703b0fb66f403639" class="sph-email-input sh-form-field" placeholder="e.g. email@example.com" aria-describedby="sph-newsletter-email-error-d0265cd31a6ba3a2703b0fb66f403639"><span class="bar"></span>      </div>        <div class="sh-form-group">          <label for="sph-newsletter-phone-d0265cd31a6ba3a2703b0fb66f403639" class="sh-form-label" style="color: rgb(28, 27, 26);">            Phone number:          </label>          <span id="sph-newsletter-phone-error-d0265cd31a6ba3a2703b0fb66f403639" class="sh-form-error" aria-live="assertive" style="display: none;"></span>          <input type="tel" id="sph-newsletter-phone-d0265cd31a6ba3a2703b0fb66f403639" class="sph-email-input sh-form-field" aria-describedby="sph-newsletter-phone-error-d0265cd31a6ba3a2703b0fb66f403639" placeholder="e.g. 1234567890"><span class="bar"></span>        </div>        <div class="sh-form-group is-inline">          <input type="checkbox" id="sph-newsletter-checkbox-phone-d0265cd31a6ba3a2703b0fb66f403639">          <label for="sph-newsletter-checkbox-phone-d0265cd31a6ba3a2703b0fb66f403639" class="sh-form-label" style="color: rgb(28, 27, 26);">            <h2>              I'd like to get texts about specials, events, and other exclusive offers and announcements not available to the general public <a target="_blank" href="https://www.spothopperapp.com/spots/346270/privacy_policy" style="color:inherit;text-decoration:underline;">Privacy Policy</a> <a target="_blank" href="https://www.spothopperapp.com/spots/346270/terms_and_conditions" style="color:inherit;text-decoration:underline;">Terms and Conditions</a>              <ul>                <li>Message and data rates may apply.</li>                <li>Message frequency varies.</li>              </ul>            </h2>          </label>        </div>        <input type="hidden" value="#newsletter">      <button type="button" style="" id="d0265cd31a6ba3a2703b0fb66f403639" class="sph-submit-button sph-newsletter-widget-2-btn custom-temp-btn hvr-fade" onclick="sendEmail_MT(this.id)">        <span class="sph-submit-label">Submit</span>        <span class="sph-loading-img">          <img src="./Hungry_files/loading.gif" alt="Newsletter loader icon">        </span>      </button>    </div>    <div class="sph-response-message" tabindex="-1"></div></div><style>[data-id="newsletter-widget-2"] .sh-form-group {  display: flex;  flex-wrap: wrap;  column-gap: 0.2rem;  align-items: center;}[data-id="newsletter-widget-2"] .sh-form-group.is-inline {  flex-wrap: nowrap;  align-items: baseline;  gap: 0.5rem;}[data-id="newsletter-widget-2"] .sh-form-group:not(:first-of-type) {  margin-top: 1.5rem;}[data-id="newsletter-widget-2"] .sh-form-label {  display: inline-flex;  font-weight: 600;}[data-id="newsletter-widget-2"] .sh-form-group.is-inline .sh-form-label {  flex-direction: column;  align-items: flex-start;  text-align: left;  font-weight: inherit;}[data-id="newsletter-widget-2"] .sh-form-error {  background: #fff;  padding: 0.1rem 0.3rem;  border-radius: 3px;  display: inline-flex;  font-size: 1rem;  font-weight: 500;  color: hsl(0, 100%, 40%);}[data-id="newsletter-widget-2"] .sh-form-field {  width: 100%;}</style></div><script type="text/javascript" async="" src="./Hungry_files/newsletter(1).js.download"></script><script id="sph-widget-2ce08bd156a46491d83342eb4a039092" type="text/javascript">
                   (function () {
                     function async_load() {
                       var s = document.createElement('script');
@@ -2136,28 +2060,23 @@ scripting_active: false
       </div>
     </div>
   </div>
-  <script src="./namoapps.co/web/thewolfdenbar--com/lib/jquery/jquery.min.js"></script>
-  <script src="./namoapps.co/web/thewolfdenbar--com/lib/jquery/jquery.browser.min.js"></script>
-  <script src="./namoapps.co/web/thewolfdenbar--com/lib/bootstrap/js/bootstrap.min.js"></script>
-  <script src="./namoapps.co/web/thewolfdenbar--com/lib/owlcarousel/owl.carousel.min.js"></script>
-  <script src="./namoapps.co/web/thewolfdenbar--com/lib/masonry/masonry.pkgd.min.js"></script>
-  <script src="./namoapps.co/web/thewolfdenbar--com/lib/imagesloaded/imagesloaded.pkgd.min.js"></script>
-  <script src="./namoapps.co/web/thewolfdenbar--com/lib/uikit/js/uikit.min.js" type="text/javascript"></script>
-  <script src="./namoapps.co/web/thewolfdenbar--com/lib/uikit/js/slideshow.min.js" type="text/javascript"></script>
-  <script src="./namoapps.co/web/thewolfdenbar--com/lib/uikit/js/slideshow-fx.min.js"></script>
-  <script src="./namoapps.co/iframeResizer.js" type="text/javascript"></script>
-  <script src="./namoapps.co/web-lib/leaflet/leaflet%401.3.1/dist/leaflet.js"></script>
-  <script src="./namoapps.co/web-lib/leaflet/leaflet-providers.js"></script>
-  <script
-    src="./namoapps.co/web-lib/leaflet/leaflet-gesture-handling%401.2.2/dist/leaflet-gesture-handling.min.js"></script>
-  <script src="./namoapps.co/web/thewolfdenbar--com/lib/fancybox/source/jquery.fancybox.js"
-    type="text/javascript"></script>
-  <script src="./namoapps.co/web/thewolfdenbar--com/lib/fancybox/source/jquery.fancybox.pack.js"
-    type="text/javascript"></script>
-  <script src="./namoapps.co/web/thewolfdenbar--com/lib/fancybox/source/helpers/jquery.fancybox-thumbs_v%3D1.0.7.js"
-    type="text/javascript"></script>
-  <script src="./namoapps.co/web/thewolfdenbar--com/lib/fancybox/source/helpers/jquery.fancybox-media_v%3D1.0.6.js"
-    type="text/javascript"></script>
+  <script src="./Hungry_files/jquery.min.js.download"></script>
+  <script src="./Hungry_files/jquery.browser.min.js.download"></script>
+  <script src="./Hungry_files/bootstrap.min.js.download"></script>
+  <script src="./Hungry_files/owl.carousel.min.js.download"></script>
+  <script src="./Hungry_files/masonry.pkgd.min.js.download"></script>
+  <script src="./Hungry_files/imagesloaded.pkgd.min.js.download"></script>
+  <script src="./Hungry_files/uikit.min.js.download" type="text/javascript"></script>
+  <script src="./Hungry_files/slideshow.min.js.download" type="text/javascript"></script>
+  <script src="./Hungry_files/slideshow-fx.min.js.download"></script>
+  <script src="./Hungry_files/iframeResizer.js.download" type="text/javascript"></script>
+  <script src="./Hungry_files/leaflet.js.download"></script>
+  <script src="./Hungry_files/leaflet-providers.js.download"></script>
+  <script src="./Hungry_files/leaflet-gesture-handling.min.js.download"></script>
+  <script src="./Hungry_files/jquery.fancybox.js.download" type="text/javascript"></script>
+  <script src="./Hungry_files/jquery.fancybox.pack.js.download" type="text/javascript"></script>
+  <script src="./Hungry_files/jquery.fancybox-thumbs_v=1.0.7.js.download" type="text/javascript"></script>
+  <script src="./Hungry_files/jquery.fancybox-media_v=1.0.6.js.download" type="text/javascript"></script>
   <script type="text/javascript">
 
 
@@ -3277,9 +3196,7 @@ scripting_active: false
 
   </script>
   <footer id="accessibility-footer">
-    <p>We strive to make our website accessible to everybody. <a aria-label="Learn More About our website accessibility"
-        class="accessibility-link" href="./accessibility/thewolfdenbar.com/accessibility-page-01/index.html"
-        target="_self">Learn More.</a></p>
+    <p>We strive to make our website accessible to everybody. <a aria-label="Learn More About our website accessibility" class="accessibility-link" href="https://thewolfdenbar.netlify.app/accessibility/thewolfdenbar.com/accessibility-page-01/" target="_self">Learn More.</a></p>
   </footer>
   <script>
 
@@ -3320,8 +3237,7 @@ scripting_active: false
         return href == url;
       } else {
         var urlPath = partsOfURL[1];
-        if (urlPath.
-        (0, 1) == "/") {
+        if (urlPath.substring(0, 1) == "/") {
           urlPath = urlPath.substring(1, urlPath.length);
         }
         return href.indexOf(urlPath, domain.length + href.indexOf(domain) - 1) !== -1;
@@ -3959,11 +3875,10 @@ scripting_active: false
       return false;
     }
   </script>
-  <script type="text/javascript" src="./namoapps.co/slideshow_and_video_control_buttons_mt_plugin_v2.js"></script>
-  <link href="./namoapps.co/wcache-website-includes/assets/generic-form-BPJPlCcv.css" rel="stylesheet" media="screen">
-  <script type="module" crossorigin="crossorigin"
-    src="./namoapps.co/wcache-website-includes/assets/generic-form-C5eRC-m8.js"></script>
-  <div id="sh-generic-form-widget"></div>
+  <script type="text/javascript" src="./Hungry_files/slideshow_and_video_control_buttons_mt_plugin_v2.js.download"></script>
+  <link href="./Hungry_files/generic-form-BPJPlCcv.css" rel="stylesheet" media="screen">
+  <script type="module" crossorigin="crossorigin" src="./Hungry_files/generic-form-C5eRC-m8.js.download"></script>
+  <div id="sh-generic-form-widget" data-v-app=""><div><button id="sh-generic-form-bubble" class="tw-fixed md:tw-bottom-6 tw-right-2 tw-z-[1040] tw-bg-transparent tw-border-0 tw-p-0 tw-transition-all tw-bottom-16" aria-label="Open contact us popup form" aria-haspopup="dialog" aria-expanded="false"><div class="tw-bg-white tw-rounded-full tw-justify-center tw-flex tw-items-center tw-w-16 tw-h-16"><img class="tw-w-10 tw-h-10" src="data:image/svg+xml,%3csvg%20width=&#39;42&#39;%20height=&#39;32&#39;%20viewBox=&#39;0%200%2042%2032&#39;%20fill=&#39;none&#39;%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%3e%3cpath%20d=&#39;M14%200C21.125%200%2027%204.9375%2027%2011C27%2017.125%2021.125%2022%2014%2022C12.8125%2022%2011.6875%2021.875%2010.5625%2021.625C8.6875%2022.8125%205.9375%2024%202.5%2024C1.875%2024%201.3125%2023.6875%201.125%2023.0625C0.875%2022.5%200.9375%2021.875%201.375%2021.375C1.4375%2021.375%202.8125%2019.875%203.8125%2017.875C2.0625%2016%201%2013.625%201%2011C1%204.9375%206.8125%200%2014%200ZM11.25%2018.6875C12.1875%2018.9375%2013.0625%2019%2014%2019C19.5%2019%2024%2015.4375%2024%2011C24%206.625%2019.5%203%2014%203C8.4375%203%204%206.625%204%2011C4%2013.25%205.0625%2014.875%206%2015.8125L7.5%2017.375L6.5%2019.3125C6.25%2019.6875%206%2020.125%205.75%2020.5625C6.875%2020.25%207.9375%2019.75%209%2019.0625L10.0625%2018.4375L11.25%2018.6875ZM28.5625%208.0625C35.5%208.3125%2041%2013.125%2041%2019C41%2021.625%2039.875%2024%2038.125%2025.875C39.125%2027.875%2040.5%2029.375%2040.5625%2029.375C41%2029.875%2041.0625%2030.5%2040.8125%2031.0625C40.625%2031.6875%2040.0625%2032%2039.4375%2032C36%2032%2033.25%2030.8125%2031.375%2029.625C30.25%2029.875%2029.125%2030%2028%2030C22.875%2030%2018.4375%2027.5%2016.3125%2023.875C17.375%2023.75%2018.4375%2023.5%2019.375%2023.125C21.125%2025.5%2024.3125%2027%2028%2027C28.875%2027%2029.75%2026.9375%2030.6875%2026.6875L31.875%2026.4375L32.9375%2027.0625C34%2027.75%2035.0625%2028.25%2036.1875%2028.5625C35.9375%2028.125%2035.6875%2027.6875%2035.4375%2027.3125L34.4375%2025.375L35.9375%2023.8125C36.875%2022.875%2038%2021.25%2038%2019C38%2014.875%2034%2011.5%2028.9375%2011.0625L29%2011C29%2010%2028.8125%209%2028.5625%208.0625Z&#39;%20fill=&#39;black&#39;/%3e%3c/svg%3e" alt=""></div></button><!----><!----><!----></div></div>
   <script>
     ; (async () => {
       if (typeof window.focusTrap === 'undefined') {
@@ -3999,15 +3914,12 @@ scripting_active: false
       }
     })();
   </script>
-  <script src="./wcache-plugins.namoapps.co/production/wcpl_bootstrap_ada_fix/wcpl_bootstrap_ada_fix.js"></script>
-  <link href="./wcache-plugins.namoapps.co/production/wcpl_bday_club/wcpl_bday_club.css" rel="stylesheet"
-    media="screen">
-  <script src="/wcache-plugins.namoapps.co/production/wcpl_bday_club/wcpl_bday_club.js"></script>
-  <link
-    href="./wcache-plugins.namoapps.co/production/wcpl_website_editor_interpreter/website_interpreter_helper_style.css"
-    rel="stylesheet" media="screen">
+  <script src="./Hungry_files/wcpl_bootstrap_ada_fix.js.download"></script>
+  <link href="./Hungry_files/wcpl_bday_club.css" rel="stylesheet" media="screen">
+  <script src="./Hungry_files/wcpl_bday_club.js.download"></script>
+  <link href="./Hungry_files/website_interpreter_helper_style.css" rel="stylesheet" media="screen">
   <script>var changes_log_array = {};</script>
-  <script src="./wcache-plugins.namoapps.co/production/wcpl_website_editor_interpreter/website_interpreter.js"></script>
-</body>
+  <script src="./Hungry_files/website_interpreter.js.download"></script>
 
-</html>
+
+</body></html>

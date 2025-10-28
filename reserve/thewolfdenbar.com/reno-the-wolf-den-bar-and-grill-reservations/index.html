@@ -65,6 +65,19 @@ scripting_active: false
   <!--[if IE 7]><link rel="stylesheet" href="lib/icons_font/css/social_icons-ie7.css"><![endif]-->
   <link href="../../reserve.namoapps.co/web/thewolfdenbar--com/lib/twitter_x_font_icon/css/twitter_x.css"
     rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- CSS -->
+    <!-- <link href="../css/bootstrap.min.css" rel="stylesheet"> -->
+    <link href="../css/bs-icon-font/bootstrap-icons.css" rel="stylesheet">
+    <link href="../css/style.css" rel="stylesheet">
+    <link href="../css/vendors.min.css" rel="stylesheet">
+
+    <link href="../css/vegas.min.css" rel="stylesheet">
+
+    <!-- YOUR CUSTOM CSS -->
+    <link href="../css/custom.css" rel="stylesheet">
   <!--[if IE 7]><link rel="stylesheet" href="lib/twitter_x_font_icon/css/twitter_x-ie7.css"><![endif]-->
   <style>
     html {
@@ -753,6 +766,40 @@ scripting_active: false
             color: #fff;
           }
         }
+        #purchase {
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        padding: 5px 8px 3px;
+        color: #fff;
+        z-index: 2;
+        font-size: 11px;
+
+    }
+
+    #purchase a {
+        display: inline-block;
+        padding: 5px 10px;
+        color: #fff;
+        font-size: 11px;
+        font-weight: 600;
+        text-transform: uppercase;
+        background-color: #111;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border-radius: 3px;
+    }
+
+    #purchase a:hover {
+        background-color: #6CC;
+    }
+
+    @media screen and (max-width: 560px) {
+        #purchase {
+            display: none;
+
+        }
+    }
       </style><!-- nav -->
       <nav class="navbar nav-v4 nav-v6 nav-v7 navbar-regular navbar-fixed-top" id="navbar" role="navigation">
         <div id="skip"><a class="visuallyhidden skip-content" href="#content">Skip to main content</a></div>
@@ -900,7 +947,44 @@ scripting_active: false
         </div>
       </nav>
     </header>
-    <main id="content" role="main">
+    <div class="container my-auto main_content">
+            <div class="row countdown">
+                <div class="col-md-12">
+                    <h1>We will be back Soon!</h1>
+                    <h2>Meanwhile, you can request for a reservation or view <strong>our offers</strong>.</h2>
+                </div>                
+            </div>
+            <div id="book">
+                <form method="post" action="phpmailer/reservation_phpmailer_template.php" id="check_avail" autocomplete="off">
+                    <div class="row">
+                        <div class="col-md-4 first-nogutter position-relative">
+                            <input type="text" class=" form-control" id="dates" name="dates" placeholder="Check in / Check out">
+                            <span class="input-icon"><i class="bi bi-calendar2"></i></span>
+                        </div>
+                        <div class="col-md-3 nogutter position-relative">
+                            <input type="text" class=" form-control" id="name" name="name" placeholder="Name">
+                            <span class="input-icon"><i class="bi bi-people"></i></span>
+                        </div>
+                        <div class="col-md-3 nogutter position-relative">
+                            <input type="text" class=" form-control" id="email" name="email" placeholder="Email">
+                            <span class="input-icon"><i class="bi bi-envelope"></i></span>
+                        </div>
+                        <div class="col-md-1 nogutter position-relative">
+                            <div class="qty-buttons">
+                                <input type="button" value="+" class="qtyplus" name="quantity">
+                                <input type="text" name="quantity" id="quantity" value="" class="qty form-control required" placeholder="Guest">
+                                <input type="button" value="-" class="qtyminus" name="quantity">
+                            </div>
+                        </div>
+                        <div class="col-md-1 ps-0 pe-3">
+                            <button type="submit" class="btn_check" id="submit-check">Check</button>
+                        </div>
+                    </div>
+                </form>
+                <div id="message-booking"></div>
+            </div><!-- End book -->
+        </div>
+    <!-- <main id="content" role="main">
       <article>
         <div class="pagecontent">
           <div class="tabs-container">
@@ -916,7 +1000,7 @@ scripting_active: false
           </div>
         </div>
       </article>
-    </main>
+    </main> -->
   </div>
   <style type="text/css">
     .navbar-fixed-bottom.nav-v1 {
@@ -1819,6 +1903,34 @@ scripting_active: false
   <script>var changes_log_array = {};</script>
   <script
     src="../../reserve-plugins.namoapps.co/production/wcpl_website_editor_interpreter/website_interpreter.js"></script>
-</body>
+
+<script src="../js/jquery-3.7.0.min.js"></script>
+	<script src="../js/bootstrap.bundle.min.js"></script>
+	<script src="../js/vegas.min.js"></script>
+    <script>
+        $(function() {
+        "use strict";
+        $('body').vegas({
+            slides: [
+                { src: 'img/slide_1.jpg' },
+                { src: 'img/slide_2.jpg' },
+                { src: 'img/slide_3.jpg' }
+            ],
+            overlay: true,
+                transition: 'fade2',
+                animation: 'kenburnsUpRight',
+                transitionDuration: 1000,
+                delay: 10000,
+                animationDuration: 30000
+        });
+    });
+    </script>
+	<script src="../js/moment.min.js"></script>
+	<script src="../js/daterangepicker.js"></script>
+	<script src="../js/owl-carousel.js"></script>
+	<script src="../js/fslightbox.js"></script>
+	<script src="../js/functions.js"></script>
+	<script src="../phpmailer/validate.js"></script>
+  </body>
 
 </html>
